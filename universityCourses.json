@@ -5,7 +5,10 @@
     "idUniveridad": 1,
     "courses": [
       {
-        "course": "Ingenieria Civil"
+        "course": "Ingenieria Civil",
+        "credits":"",
+        "duration":"",
+        "profile":""
       },{
         "course": "Ingenieria en Alimentos"
       },{

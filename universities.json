@@ -11,6 +11,13 @@
         },
         "mail": ["escolar@mixteco.utm.mx"]
       }
+    ],
+    "description":[
+      {
+        "mision":"",
+        "vision":"",
+        "whatId":""
+      }
     ]
   }
 ]
