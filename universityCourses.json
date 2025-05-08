@@ -1,0 +1,36 @@
+[
+
+  {
+
+    "idUniveridad": 1,
+    "courses": [
+      {
+        "course": "Ingenieria Civil"
+      },{
+        "course": "Ingenieria en Alimentos"
+      },{
+        "course":"Ingenieria en Computacion"
+      },{
+        "course": "Ingenieria en Diseño"
+      },{
+        "course": "Ingenieria en Electronica"
+      },{
+        "course": "Ingenieria en Fisica Aplicada"
+      },{
+        "course": "Ingenieria Industrial"
+      },{
+        "course": "Ingenieria en Mecanica Automotriz"
+      },{
+        "course": "Ingenieria en Mecatronica"
+      },{
+        "course": "Ingenieria en Quimica en Procesos Sostenibles"
+      },{
+        "course": "Ingenieria en Ciencias empresariales"
+      },{
+        "course": "Ingenieria en Matematicas Aplicadas"
+      },{
+        "course": "Ingenieria en Estudios Mexiacanos modalidad Virtual"
+      }
+    ]
+  }
+]

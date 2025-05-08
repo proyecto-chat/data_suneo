@@ -1,0 +1,16 @@
+[
+  {
+    "id":1,
+    "name": "Universidad Autonoma de la Mixteca",
+    "abbreviation": "UTM",
+    "locations": [
+      {
+        "location":"Av. Dr. Modesto Seara Vázquez No. 1. Acatlima, Heroica Ciudad de Huajuapan de León, Oax., México C.P. 69004",
+        "servicesSchools":{
+          "phones": ["953 532 0214", "953 532 0399", "953 532 2933","953 532 4560"]
+        },
+        "mail": ["escolar@mixteco.utm.mx"]
+      }
+    ]
+  }
+]
