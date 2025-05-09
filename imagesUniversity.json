@@ -69,6 +69,27 @@
     ]
   },
   {
+    "id": 8,
+    "name": "Novauniversitas",
+    "abbreviation": "NU",
+    "url_logo": "https://www.suneo.mx/web/sites/default/files/escudos/08-NOVA_small.png",
+    "url_photos": [
+      "https://www.novauniversitas.edu.mx/web/assets/contacto/assets/img/porticos/14-OCO.png",
+      "https://www.novauniversitas.edu.mx/web/assets/contacto/assets/img/porticos/17-NOP.png",
+      "https://www.novauniversitas.edu.mx/web/assets/contacto/assets/img/porticos/15-CSJ.png",
+      "https://www.novauniversitas.edu.mx/web/assets/contacto/assets/img/porticos/16-JUX.png"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Universidad de la Costa",
+    "abbreviation": "UNCOS",
+    "url_logo": "https://www.suneo.mx/web/sites/default/files/escudos/09-UNCOS_small.png",
+    "url_photos": [
+      "https://www.uncos.edu.mx/web/sites/default/files/imagenes/nuestra_universidad/Que%20es%20la%20UNCOS_0.png"
+    ]
+  },
+  {
     "id": 10,
     "name": "Universidad de Chalcatongo",
     "abbreviation": "UNICHA",

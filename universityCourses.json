@@ -929,5 +929,126 @@
         ]
       }
     ]
+  },
+  {
+    "idUniveridad": 8,
+    "campusCourses": [
+      {
+        "idCampus": 0,
+        "courses": [
+          {
+            "course": "Ingeniería en Desarrolllo de Software",
+            "credits": "",
+            "duration": "8 semestres",
+            "profile": {
+              "info": "",
+              "skills": [
+                "Diseñar, desarrollar e implementar soluciones tecnológicas que permitan la administración eficiente de la información como apoyo en la toma de decisiones."
+              ]
+            }
+          },
+          {
+            "course": "Ingeniería en Sistemas Agroalimentarios",
+            "credits": "",
+            "duration": "8 semestres",
+            "profile": {
+              "info": "",
+              "skills": [
+                "Diseñar, gestionar e implementar sistemas productivos agrícolas y pecuarios sostenibles y eficientes. ",
+                "Aplicar tecnologías modernas para optimizar el uso de recursos naturales como suelo y agua.",
+                "Analizar y mejorar procesos de transformación y comercialización de productos agroalimentarios",
+                "Administrar proyectos que integren el ámbito rural con los mercados, fomentando el desarrollo local y regional.",
+                "Asegurar la calidad e inocuidad de los alimentos, alineándose con normativas nacionales e internacionales.",
+                "Generar soluciones prácticas y efectivas basadas en la investigación y el uso de herramientas tecnológicas.",
+                "Contribuir al desarrollo de comunidades rurales mediante prácticas responsables y sostenibles."
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Emprendimiento y Desarrollo de Mipymes",
+            "credits": "",
+            "duration": "8 semestres",
+            "profile": {
+              "info": "Formar profesionistas capaces de emprender y liderar Micro, Pequeñas y Medianas Empresas (MIPyMES) con alto sentido ético y humanista, que contribuyan al desarrollo regional sustentable. Los egresados y las egresadas serán capaces de constituir, gestionar y transformar empresas mediante la innovación y el uso eficiente de recursos, con un enfoque estratégico, sostenible y socialmente responsable.",
+              "skills": [
+                "Habilidades avanzadas en liderazgo",
+                "Comunicación",
+                "Negociación",
+                "Trabajo en equipo"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "idUniveridad": 9,
+    "campusCourses": [
+      {
+        "idCampus": 0,
+        "courses": [
+          {
+            "course": "Ingeniería en Agroindustrias",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar profesionales capaces de planificar, diseñar y optimizar procesos, plantas y productos agroindustriales en diferentes niveles de transformación, desde la producción primaria hasta la elaboración de productos terminados, con un enfoque en la calidad, sustentabilidad y competitividad en los mercados nacional e internacional.",
+              "skills": [
+                "Crear e implementar maquinaria y procesos necesarios para la transformación de la materia prima en producto terminado de alta calidad.",
+                "Planificar y desarrollar proyectos agroindustriales considerando aspectos técnicos, económicos, sociales y ambientales."
+              ]
+            }
+          },
+          {
+            "course": "Ingeniería en Diseño",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar profesionales capaces de desarrollar soluciones creativas en diseño arquitectónico, industrial y gráfico, que respondan a las necesidades sociales y tecnológicas contemporáneas, integrando innovación, funcionalidad y estética.",
+              "skills": [
+                "Realizar diseños de tipo arquitectónico e industrial, además de dar soluciones gráficas a los problemas de la sociedad contemporánea.",
+                "Aplicar herramientas digitales y técnicas de diseño para la creación de proyectos innovadores."
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Ciencias Empresariales",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar profesionales con conocimientos en administración, finanzas, mercadotecnia y emprendimiento, capaces de gestionar organizaciones y proyectos empresariales con ética y responsabilidad social.",
+              "skills": [
+                "Analizar y tomar decisiones estratégicas para la gestión eficiente de recursos empresariales.",
+                "Desarrollar planes de negocio y proyectos de emprendimiento con enfoque innovador y sostenible."
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Enfermería",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar profesionales de enfermería capacitados para brindar atención integral de calidad en diferentes niveles de salud, promoviendo el bienestar y la prevención de enfermedades en la comunidad.",
+              "skills": [
+                "Aplicar técnicas y procedimientos de enfermería para la atención de pacientes en diversas áreas clínicas.",
+                "Promover programas de salud comunitaria y educación para la salud."
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Medicina Veterinaria y Zootecnia",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar profesionales capaces de diagnosticar, tratar y prevenir enfermedades en animales, así como de gestionar sistemas de producción animal sustentables, contribuyendo a la salud pública y el desarrollo agropecuario.",
+              "skills": [
+                "Medicina y salud animal; producción y economía pecuaria; calidad e inocuidad de los alimentos de origen animal; salud pública; protección del ambiente y cuidado de los ecosistemas. "
+              ]
+            }
+          }
+        ]
+      }
+    ]
   }
 ]

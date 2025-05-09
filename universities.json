@@ -236,6 +236,71 @@
     ]
   },
   {
+    "id": 8,
+    "name": "Novauniversitas",
+    "abbreviation": "NU",
+    "locations": [
+      {
+        "idcampus": 0,
+        "name": "Ocotlan & San Jacinto",
+        "location": "Carretera a Puerto Ángel Km. 34.5, Ocotlán de Morelos, Oax. México C.P. 71513",
+        "servicesSchools": {
+          "phones": ["951 501 7205, 951 501 7200, 951 501 7207 & 951 501 7208"]
+        },
+        "mail": ["escolares@novauniversitas.edu.mx"]
+      },
+      {
+        "idcampus": 1,
+        "name": "Juxtlahuaca",
+        "location": "Av. Universidad 200, Col. Primero de Julio, Santiago Juxtlahuaca, Oax. México C.P. 69700",
+        "servicesSchools": {
+          "phones": ["951 554 4033 & 951 554 4030"]
+        },
+        "mail": ["escolares.jx@novauniversitas.edu.mx"]
+      },
+      {
+        "idcampus": 2,
+        "name": "Nopala",
+        "location": "Calle Universidad #100, Cañada de los Matus, Santos Reyes Nopala, Oaxaca, México, C.P.71963",
+        "servicesSchools": {
+          "phones": ["954 133 0556"]
+        },
+        "mail": ["escolares.nova.nop@gmail.com"]
+      }
+    ],
+    "description": [
+      {
+        "mision": "Impartir educación superior en los niveles de Licenciatura, Maestría y Doctorado formando profesionales e investigadores altamente capacitados, para contribuir al desarrollo de la investigación, educación superior, independencia económica, científica, tecnológica y cultural del Estado y del País.",
+        "vision": "Consolidarse como una Universidad de calidad en educación superior, comprometida con la excelencia académica, líder en el desarrollo científico, tecnológico y cultural, con reconocimiento nacional e internacional.",
+        "whatIs": "Es una Universidad que pertenece al SUNEO y está formada por una serie de campus, que por estar situados en comunidades aisladas o de dimensiones limitadas, no pueden disponer de los mismos servicios que se encuentran en los campus de la universidades ordinarias del SUNEO, pero que cuentan con instalaciones, personal y equipamiento adecuados para ofrecer una enseñanza de alta calidad. Cada Campus está concebido para atender a un máximo de trescientos alumnos. Oferta reducida de carreras y exclusión de muchas del campo de las ciencias y la tecnología, que requieren prácticas en laboratorios.",
+        "description": "Novauniversitas es una institución de educación superior pública del Sistema de Universidades del Estado de Oaxaca (SUNEO). Se caracteriza por tener campus en comunidades aisladas o pequeñas, ofreciendo servicios de educación superior de alta calidad a jóvenes con escasos recursos. "
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Universidad de la Costa",
+    "abbreviation": "NU",
+    "locations": [
+      {
+        "idcampus": 0,
+        "name": "Carretera al Libramiento Paraje de Las Pulgas, Santiago Pinotepa Nacional, Distrito Jamiltepec, C.P. 71600",
+        "servicesSchools": {
+          "phones": ["954 543 4610"]
+        },
+        "mail": ["escolares@uncos.edu.mx"]
+      }
+    ],
+    "description": [
+      {
+        "mision": "Impartir educación superior en los niveles de Licenciatura, Maestría y Doctorado formando profesionales e investigadores altamente capacitados, para contribuir al desarrollo de la investigación, educación superior, independencia económica, científica, tecnológica y cultural del Estado y del País.",
+        "vision": "Consolidarse como una Universidad de calidad en educación superior, comprometida con la excelencia académica, líder en el desarrollo científico, tecnológico y cultural, con reconocimiento nacional e internacional.",
+        "whatIs": "La Universidad de la Costa (UNCOS) forma parte del Sistema de Universidades Estatales de Oaxaca, SUNEO, la cual es concebida como un instrumento cultural para transformar la sociedad de la región, del estado y del país; como centro de educación superior e investigación científica enfocado a la formación, especialización y desarrollo integral de profesionales en diversos aspectos de las necesidades del país, así como para generar empresas y activar la economía, fomentando constantemente la dignificación del trabajo, honestidad y el respeto a los valores nacionales y universales.",
+        "description": "La Universidad de la Costa (UNCOS), es una institución de educación superior pública en Santiago Pinotepa Nacional, Oaxaca, México, que pertenece al Sistema de Universidades Estatales de Oaxaca (SUNEO). Ofrece programas de Licenciatura, Maestría y Doctorado, formando profesionales e investigadores en diversas áreas. "
+      }
+    ]
+  },
+  {
     "id": 10,
     "name": "Universidad de Chalcatongo",
     "abbreviation": "UNICHA",
