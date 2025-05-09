@@ -5,13 +5,16 @@
     "idUniveridad": 1,
     "campusCourses":[
       {
-        "idCmpus": 0,
+        "idCampus": 0,
         "courses": [
           {
             "course": "Ingeniería Civil",
             "credits": "",
             "duration": "",
-            "profile": ""
+            "profile":{
+              "info":"",
+              "skills":["",""]
+            }
           },
           {
             "course": "Ingeniería en Alimentos"
