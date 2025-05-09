@@ -2,13 +2,13 @@
 
   {
 
-    "idUniveridad": 1,
+    "idUniveridad": 3,
     "campusCourses":[
       {
-        "idCampus": 0,
+        "idCampus": 1,
         "courses": [
           {
-            "course": "Ingeniería Civil",
+            "course": "Ingeniería Química",
             "credits": "",
             "duration": "",
             "profile":{
@@ -17,40 +17,80 @@
             }
           },
           {
-            "course": "Ingeniería en Alimentos"
-          },
-          {
-            "course": "Ingeniería en Computacion"
+            "course": "Ingeniería de Petróleos"
           },
           {
             "course": "Ingeniería en Diseño"
           },
           {
-            "course": "Ingeniería en Electrónica"
-          },
-          {
-            "course": "Ingeniería en Fisica Aplicada"
+            "course": "Ingeniería en Computación"
           },
           {
             "course": "Ingeniería Industrial"
           },
           {
-            "course": "Ingeniería en Mecánica Automotriz"
+            "course": "Licenciatura en Matemáticas Aplicadas"
           },
           {
-            "course": "Ingeniería en Mecatrónica"
+            "course": "Ingeniería en Energías Renovables"
           },
           {
-            "course": "Ingeniería en Quimica en Procesos Sostenibles"
+            "course": "Maestría en Ciencias en Energía Eólica"
           },
           {
-            "course": "Ingeniería en Ciencias empresariales"
+            "course": "aestría en Ciencias en Energía Solar"
           },
           {
-            "course": "Ingeniería en Matematicas Aplicadas"
+            "course": "IDoctorado en Ciencias e Ingeniería en Energía"
+          }
+        ]
+      },
+      {
+        "idCampus": 2,
+        "courses": [
+          {
+            "course": "Lic. en Ciencias Empresariales",
+            "credits": "",
+            "duration": "",
+            "profile":{
+              "info":"",
+              "skills":["",""]
+            }
           },
           {
-            "course": "Ingeniería en Estudios Mexiacanos modalidad Virtual"
+            "course": "Lic. en Derecho"
+          },
+          {
+            "course": "Ing. en Desarrollo de Software y Sistemas Inteligentes"
+          },
+          {
+            "course": "Lic. en Comercio Exterior y Gestión de Aduanas (NUEVA)"
+          },
+          {
+            "course": "Ing. en Logística y Cadenas de suministros (NUEVA)"
+          },
+          {
+            "course": "Lic. en Administración Pública"
+          },
+          {
+            "course": "Lic. en Informática"
+          }
+        ]
+      },
+      {
+        "idCampus": 3,
+        "courses": [
+          {
+            "course": "Licenciatura en Nutrición",
+            "credits": "",
+            "duration": "",
+            "profile":{
+              "info":"",
+              "skills":["",""]
+            }
+          },
+          {
+            "course": "Licenciatura en Enfermería"
           }
         ]
       }

@@ -1,9 +1,10 @@
 [
   {
-    "id":1,
-    "name":"Universidad Autonoma de la Mixteca",
-    "abbreviation": "UTM",
-    "url_logo":"https://www.utm.mx/images/quees1.jpg",
-    "url_photos": ["https://www.utm.mx/images/auditorio1.jpeg","https://www.utm.mx/web/sites/default/files/imagenes/nuestra_universidad/UTM.jpg"]
+    "id":3,
+    "name":"Universidad del Istmo",
+    "abbreviation": "UNISTMO",
+    "url_logo":"https://www.unistmo.edu.mx/web/p_principal/img/unistmo.jpg",
+    "url_photos": ["https://www.unistmo.edu.mx/web/p_nuestra_universidad/img/01.png","https://www.unistmo.edu.mx/web/p_nuestra_universidad/img/que01.png"]
   }
 ]
+
