@@ -17,31 +17,85 @@
             }
           },
           {
-            "course": "Ingeniería de Petróleos"
+            "course": "Ingeniería de Petróleos",
+            "credits": "",
+            "duration": "",
+            "profile":{
+              "info":"",
+              "skills":["",""]
+            }
           },
           {
-            "course": "Ingeniería en Diseño"
+            "course": "Ingeniería en Diseño",
+            "credits": "",
+            "duration": "",
+            "profile":{
+              "info":"",
+              "skills":["",""]
+            }
           },
           {
-            "course": "Ingeniería en Computación"
+            "course": "Ingeniería en Computación",
+            "credits": "",
+            "duration": "",
+            "profile":{
+              "info":"",
+              "skills":["",""]
+            }
           },
           {
-            "course": "Ingeniería Industrial"
+            "course": "Ingeniería Industrial",
+            "credits": "",
+            "duration": "",
+            "profile":{
+              "info":"",
+              "skills":["",""]
+            }
           },
           {
-            "course": "Licenciatura en Matemáticas Aplicadas"
+            "course": "Licenciatura en Matemáticas Aplicadas",
+            "credits": "",
+            "duration": "",
+            "profile":{
+              "info":"",
+              "skills":["",""]
+            }
           },
           {
-            "course": "Ingeniería en Energías Renovables"
+            "course": "Ingeniería en Energías Renovables",
+            "credits": "",
+            "duration": "",
+            "profile":{
+              "info":"",
+              "skills":["",""]
+            }
           },
           {
-            "course": "Maestría en Ciencias en Energía Eólica"
+            "course": "Maestría en Ciencias en Energía Eólica",
+            "credits": "",
+            "duration": "",
+            "profile":{
+              "info":"",
+              "skills":["",""]
+            }
           },
           {
-            "course": "aestría en Ciencias en Energía Solar"
+            "course": "aestría en Ciencias en Energía Solar",
+            "credits": "",
+            "duration": "",
+            "profile":{
+              "info":"",
+              "skills":["",""]
+            }
           },
           {
-            "course": "IDoctorado en Ciencias e Ingeniería en Energía"
+            "course": "IDoctorado en Ciencias e Ingeniería en Energía",
+            "credits": "",
+            "duration": "",
+            "profile":{
+              "info":"",
+              "skills":["",""]
+            }
           }
         ]
       },
@@ -58,22 +112,58 @@
             }
           },
           {
-            "course": "Lic. en Derecho"
+            "course": "Lic. en Derecho",
+            "credits": "",
+            "duration": "",
+            "profile":{
+              "info":"",
+              "skills":["",""]
+            }
           },
           {
-            "course": "Ing. en Desarrollo de Software y Sistemas Inteligentes"
+            "course": "Ing. en Desarrollo de Software y Sistemas Inteligentes",
+            "credits": "",
+            "duration": "",
+            "profile":{
+              "info":"",
+              "skills":["",""]
+            }
           },
           {
-            "course": "Lic. en Comercio Exterior y Gestión de Aduanas (NUEVA)"
+            "course": "Lic. en Comercio Exterior y Gestión de Aduanas (NUEVA)",
+            "credits": "",
+            "duration": "",
+            "profile":{
+              "info":"",
+              "skills":["",""]
+            }
           },
           {
-            "course": "Ing. en Logística y Cadenas de suministros (NUEVA)"
+            "course": "Ing. en Logística y Cadenas de suministros (NUEVA)",
+            "credits": "",
+            "duration": "",
+            "profile":{
+              "info":"",
+              "skills":["",""]
+            }
           },
           {
-            "course": "Lic. en Administración Pública"
+            "course": "Lic. en Administración Pública",
+            "credits": "",
+            "duration": "",
+            "profile":{
+              "info":"",
+              "skills":["",""]
+            }
           },
           {
-            "course": "Lic. en Informática"
+            "course": "Lic. en Informática",
+            "credits": "",
+            "duration": "",
+            "profile":{
+              "info":"",
+              "skills":["",""]
+            }
           }
         ]
       },
@@ -90,7 +180,13 @@
             }
           },
           {
-            "course": "Licenciatura en Enfermería"
+            "course": "Licenciatura en Enfermería",
+            "credits": "",
+            "duration": "",
+            "profile":{
+              "info":"",
+              "skills":["",""]
+            }
           }
         ]
       }
