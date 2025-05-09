@@ -10,47 +10,183 @@
           {
             "course": "Ingeniería Civil",
             "credits": "",
-            "duration": "",
+            "duration": "10 semestres",
             "profile":{
-              "info":"",
-              "skills":["",""]
+              "info":"El Ingeniero Civil será capaz de diseñar, planear, administrar, construir y conservar infraestructura con énfasis en el análisis sísmico, contribuyendo al desarrollo de la sociedad en que se encuentre inmerso.",
+              "skills":["Ser capaz de aplicar los conocimientos de las ciencias básicas para identificar, formular y solucionar problemas de ingeniería civil que respondan a necesidades específicas de proyectos de infraestructura. ",
+              "Poseer habilidades para diseñar, planear, administrar, construir y conservar infraestructura con énfasis en el análisis sísmico",
+            "Dominar el análisis de datos experimentales derivados de pruebas de laboratorio para la evaluación de las propiedades mecánicas de los materiales de construcción.",
+          "Poseer la capacidad y el compromiso para integrar y organizar grupos de trabajo multidisciplinarios. ","Actuar con profesionalismo, ética, compromiso y cuidado del entorno para contribuir al desarrollo de una mejor sociedad. "]
             }
           },
           {
-            "course": "Ingeniería en Alimentos"
+            "course": "Ingeniería en Alimentos",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "El egresado de la carrera de Ingeniería en Alimentos de la UTM es un profesionista líder, eficaz, emprendedor, responsable, con compromiso social, elevada capacidad de comunicación y actitud de superación permanente, capaz de aplicar los conocimientos y herramientas científico-tecnológicas al diseño, optimización y evaluación del equipo, plantas, procesos, productos y sistemas de control de calidad, que inciden en la mejora de las condiciones de productividad, conservación, almacenamiento, distribución y manejo de los productos alimenticios, promoviendo así el desarrollo económico, ambiental y social de la región y del país.",
+              "skills": [
+                "Conocimientos en ciencia basica",
+                "Conocimiento en el area empresarial y de sistemas de salud", 
+                "Habilidades comunicación asertiva tanto verbal como escrita",
+                "Actitudes y valores como ser responsable y de compromiso social,",
+                "Entusiasta y solidario para el trabajo en equipo"
+              ]
+            }
           },
           {
-            "course": "Ingeniería en Computacion"
+            "course": "Ingeniería en Computacion",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Capacitar en el diseño, desarrollo y mantenimiento de sistemas computacionales con aplicación práctica en la industria y servicios.",
+              "skills": [
+                "Formación sólida en matemáticas, teoría de la computación, programación de sistemas, paradigmas de programación y sistemas de gestión de bases de datos.",
+                "Conocimientos en Inteligencia Artificial, Redes de Computadoras, Ingeniería de Software, y la especialización en alguna de ellas.",
+                "Habilidad para poder realizar trabajo en equipo y ser líder de los mismos.",
+                "Capacidad para realizar estudios de posgrado, incorporación al sector productivo o para crear su propia empresa.",
+                "Profesional responsable, solidario, ético, comprometido con la sociedad y el medio ambiente."
+              ]
+            }
           },
           {
-            "course": "Ingeniería en Diseño"
+            "course": "Ingeniería en Diseño",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "El Ingeniero en Diseño es un profesionista con sólidos conocimientos en ciencias básicas y la ingeniería, habilidades creativas y actitudes emprendedoras.",
+              "skills": [
+                "Conocimientos en ciencias básicas, procesos de ingeniería, metodologías de diseño, desarrollo tecnológico y gestión empresarial, que le permitirán desarrollar ideas de manera organizada y sistemática.",
+                "Habilidades creativas, de organización y desarrollo de ideas, comunicación, trabajo en equipo e interdisciplinario, análisis y síntesis, mentalidad orientada a resolver problemas en procesos para el desarrollo de conceptos de diseño integral.",
+                "La capacidad de emprender y adaptarse a diversos ambientes de trabajo, liderazgo, honestidad y ética profesional, interés por los problemas de la comunidad, calidad humana, ser emprendedor, conciencia del aprovechamiento eficiente de los recursos naturales."
+              ]
+            }
           },
           {
-            "course": "Ingeniería en Electrónica"
+            "course": "Ingeniería en Electrónica",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "El egresado de la Ingeniería en Electrónica es el profesionista que se caracteriza por su visión creativa e innovadora para diseñar sistemas electrónicos que integren hardware y software con tecnología de vanguardia. Está preparado para enfrentar desafíos en el campo de la electrónica y es apto para continuar con estudios de posgrado, como maestría o doctorado.",
+              "skills": [
+                "Diseño de circuitos electrónicos",
+                "Automatización de procesos industriales"
+              ]
+            }
           },
           {
-            "course": "Ingeniería en Fisica Aplicada"
+            "course": "Ingeniería en Fisica Aplicada",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "El ingeniero en Física Aplicada es un profesionista con una sólida formación en Física, Matemáticas e Ingeniería, posee gran capacidad de abstracción, habilidades notables en la implementación creando e innovando en el desarrollo experimental, resuelve y plantea modelos físicos de sistemas variados. Tienen una preparación de calidad que le permite realizar estudios de posgrado en el país y en el extranjero. Se desempeña en el sector público, industrial y de servicios, en centros de investigación científica, así como en instituciones educativas de nivel medio superior y superior.",
+              "skills": [
+                "osee conocimientos en: Álgebra, Geometría Analítica, Cálculo Diferencial e Integral, Mecánica Clásica, Electricidad y Magnetismo, Análisis Vectorial, Física Moderna, Mecánica Cuántica, Física Clásica, Óptica, Física Estadística, Métodos Matemáticos de la Física, Análisis Numérico, Ecuaciones Diferenciales, Termodinámica, Física del Estado Sólido, Análisis y Diseño de Experimentos, Física Computacional con el uso de Elemento Finito.",
+                "Suficientes en: Electrónica, Procesamiento de Señales, Modelación de Sistemas Dinámicos, Ingeniería de Productos.",
+                "Básicos en: Administración de Empresas, Programación, Química, Dibujo Asistido por computadora y Procesos de Manufactura.",
+                "Habilidades: El Ingeniero en Física Aplicada tiene la capacidad de adaptarse a equipos de trabajo multidisciplinarios en diversas áreas de la ciencia e ingeniería, además posee la habilidad de integrarse a grupos de investigación tanto básica como de desarrollo e innovación tecnológica. Cuenta con la formación académica para continuar con estudios de posgrado en el área de ciencia aplicada, ciencia básica e ingeniería."
+              ]
+            }
           },
           {
-            "course": "Ingeniería Industrial"
+            "course": "Ingeniería Industrial",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar ingenieros capaces de optimizar procesos productivos y administrativos para mejorar la eficiencia y competitividad empresarial.",
+              "skills": [
+                "Conocimientos de las ciencias básicas y de la ingeniería aplicables para la solución de problemas del desarrollo industrial sustentable, en el ámbito de estudio del trabajo, gestión de la cadena de suministro, formulación y evaluación de proyectos, sistemas productivos y gestión industrial, en empresas e instituciones donde se desempeñe. ", 
+                "Habilidad tecnológica en Ingeniería Industrial con capacidad de análisis, interpretación y modelación de sistemas productivos, así como de crear su propia fuente de empleo fundamentada en la pertinencia regional, estatal y nacional.",
+                "Actitudes de responsabilidad social y laboral, así como, valores de disciplina, ética, respeto, equidad, honestidad y lealtad"
+              ]
+            }
           },
           {
-            "course": "Ingeniería en Mecánica Automotriz"
+            "course": "Ingeniería en Mecánica Automotriz",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Capacitar en el diseño, mantenimiento y reparación de sistemas mecánicos aplicados a la industria automotriz.",
+              "skills": [
+                "Conocimientos en física y matemáticas que le permiten desarrollar las ciencias de la ingeniería mecánica y automotriz ", 
+                "Conomciminetos en ciencias de la ingeniería como mecánica vectorial, resistencia e ingeniería de materiales, termodinámica y transferencia de calor, mecánica de fluidos, electromagnetismo, circuitos eléctricos y electrónicos para comprender y analizar el funcionamiento de los diferentes componentes de los sistemas automotrices.",
+                "Trabajar en equipos multidisciplinarios y de manera independiente ",
+                "Proponer soluciones prácticas a problemas reales.",
+                "Responsabilidad y cumplimiento en tareas asignadas ",
+                "Pro actividad ante problemas que se presenten en el trabajo individual y colectivo",
+                "Dignidad y profesionalismo"
+              ]
+            }
           },
           {
-            "course": "Ingeniería en Mecatrónica"
+            "course": "Ingeniería en Mecatrónica",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": " El egresado será un profesionista con conocimientos en las áreas de ingeniería mecánica, electrónica, de control y computación, capaz de automatizar procesos, diseñar sistemas mecatrónicos, aplicar herramientas computacionales especializadas, dirigir grupos de trabajo, continuar con estudios de posgrado, así como crear, innovar y adaptar tecnologías con conciencia ambiental y ética profesional que contribuya al desarrollo del país.",
+              "skills": [
+                "Conocimientos: Ciencias básicas, mecánica, electrónica, control y computación para el análisis y desarrollo de productos y Sistemas Mecatrónicos.", 
+                "Habilidades: El Ingeniero Mecatrónico poseerá las habilidades para comprender problemas y presentar alternativas de solución a éstos, a través del empleo de los recursos tecnológicos, lo que le lleva a centrar su creatividad en la innovación, mejora y adaptación de la tecnología.",
+                "Valores: La formación en valores y su ética profesional, le permitirá que la toma de decisiones en su ámbito profesional, sea siempre pensando en lograr las mejores condiciones y oportunidades de trabajo para las personas, en condiciones dignas de salud y seguridad, cuidando siempre el entorno ecológico."
+              ]
+            }
           },
           {
-            "course": "Ingeniería en Quimica en Procesos Sostenibles"
+            "course": "Ingeniería en Quimica en Procesos Sostenibles",
+            "credits": "",
+            "duration": "9 semestres",
+            "profile": {
+              "info": "Los estudiantes de educación media superior, interesados en estudiar la licenciatura en Ingeniería Química en Procesos Sostenibles deben haber cursado materias de ciencias, como química, física y matemáticas, incluidas álgebra, trigonometría y cálculo.  ",
+              "skills": [
+                "Habilidad para las matemáticas, física y química.", 
+                "Interés por la química y sus aplicaciones a nivel industrial.",
+                "Capacidad para identificar y resolver problemas.",
+                "Capacidad de razonamiento, análisis, síntesis y creatividad.",
+                "Compromiso con la búsqueda de soluciones para el bienestar social y la sostenibilidad.",
+                "Creatividad, actitud crítica y gusto por realizar trabajo experimental a nivel de laboratorio y planta."
+              ]
+            }
           },
           {
-            "course": "Ingeniería en Ciencias empresariales"
+            "course": "Ingeniería en Ciencias empresariales",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "El egresado de la Licenciatura en Ciencias Empresariales tendrá la capacidad para iniciar una empresa y/o gestionar una existente. De Identificar oportunidades de negocios, de proponer y emprender responsablemente proyectos en beneficio de su entorno. ",
+              "skills": [
+                "Identificar y evaluar oportunidades de negocio con una actitud emprendedora.", 
+                "Desarrollar y evaluar proyectos de inversión con ética y responsabilidad social.",
+                "Crear, dirigir, desarrollar y/o consolidar empresas desde una perspectiva creativa e innovadora.",
+                "Tomar decisiones efectivas en el manejo y la aplicación de los recursos.",
+                "Dirigir grupos multidisciplinarios, motivar a las personas y resolver conflictos interpersonales."
+              ]
+            }
           },
           {
-            "course": "Ingeniería en Matematicas Aplicadas"
+            "course": "Ingeniería en Matematicas Aplicadas",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "El Licenciado en Matemáticas Aplicadas, es un profesional con una sólida formación en Matemáticas y sus aplicaciones actuales, posee gran capacidad de abstracción de la realidad, es capaz de interpretar, crear y resolver modelos matemáticos. Tiene una preparación de calidad que le permite realizar estudios de posgrado en el país y el extranjero. Al mismo tiempo, se desempeña en el sector público y de servicios, en centros de investigación científica y aplicada.",
+              "skills": [
+                "Conocimientos sólidos en las áreas del conocimiento: Análisis Matemático, Álgebra, Geometría y Topología, Probabilidad y Estadística y Modelado Matemático.", 
+                "Conocimientos básicos de Programación, Inglés, Mecánica Clásica, Economía Matemática y Lógica Matemática.",
+                "Construir y desarrollar argumentaciones lógicas con una identificación clara de hipótesis y conclusiones, así como de identificación de inconsistencias.",
+                "Discernir el desarrollo lógico de teorías matemáticas y abstraer las relaciones entre ellas. ",
+                "Desarrollar los valores éticos de la profesión que le permitan actuar adecuadamente dentro del campo laboral y social de manera cooperativa y colaborativa.",
+                "Abordar los conflictos a través del diálogo y la negociación, ejerciendo los valores del pluralismo, democracia, equidad, solidaridad, tolerancia y paz.",
+                "Ser líder integro y humanista, promotor de la convivencia multicultural y capaz de tener apertura al cambio, comprensión y tolerancia hacia la diversidad."
+              ]
+            }
           },
           {
-            "course": "Ingeniería en Estudios Mexiacanos modalidad Virtual"
+            "course": "Ingeniería en Estudios Mexiacanos modalidad Virtual",
+            "credits": "",
+            "duration": "8 semestres",
+            "profile": {
+              "info": "El egresado es un profesional con un amplio conocimiento de México, desde una perspectiva multidisciplinaria, que le permite comprender bien su historia y su cultura y además comprender el funcionamiento de su economía, su sistema jurídico y político. El egresado será capaz de integrarse al trabajo y/o dirección de organizaciones civiles y de empresas, particularmente las que se desenvuelven en el campo de las relaciones económicas entre México y Estados Unidos. También podrá desenvolverse profesionalmente en la investigación y la docencia dentro de instituciones educativas del Nivel Medio Superior y Superior, así como en aquellos organismos dedicados al estudio, la investigación y promoción de la cultura mexicana y chicana." ,
+              "skills": ["", ""]
+            }
           }
         ]
       }
