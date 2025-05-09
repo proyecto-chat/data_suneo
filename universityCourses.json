@@ -1,9 +1,7 @@
 [
-
   {
-
     "idUniveridad": 1,
-    "campusCourses":[
+    "campusCourses": [
       {
         "idCampus": 0,
         "courses": [
@@ -11,12 +9,15 @@
             "course": "Ingeniería Civil",
             "credits": "",
             "duration": "10 semestres",
-            "profile":{
-              "info":"El Ingeniero Civil será capaz de diseñar, planear, administrar, construir y conservar infraestructura con énfasis en el análisis sísmico, contribuyendo al desarrollo de la sociedad en que se encuentre inmerso.",
-              "skills":["Ser capaz de aplicar los conocimientos de las ciencias básicas para identificar, formular y solucionar problemas de ingeniería civil que respondan a necesidades específicas de proyectos de infraestructura. ",
-              "Poseer habilidades para diseñar, planear, administrar, construir y conservar infraestructura con énfasis en el análisis sísmico",
-            "Dominar el análisis de datos experimentales derivados de pruebas de laboratorio para la evaluación de las propiedades mecánicas de los materiales de construcción.",
-          "Poseer la capacidad y el compromiso para integrar y organizar grupos de trabajo multidisciplinarios. ","Actuar con profesionalismo, ética, compromiso y cuidado del entorno para contribuir al desarrollo de una mejor sociedad. "]
+            "profile": {
+              "info": "El Ingeniero Civil será capaz de diseñar, planear, administrar, construir y conservar infraestructura con énfasis en el análisis sísmico, contribuyendo al desarrollo de la sociedad en que se encuentre inmerso.",
+              "skills": [
+                "Ser capaz de aplicar los conocimientos de las ciencias básicas para identificar, formular y solucionar problemas de ingeniería civil que respondan a necesidades específicas de proyectos de infraestructura. ",
+                "Poseer habilidades para diseñar, planear, administrar, construir y conservar infraestructura con énfasis en el análisis sísmico",
+                "Dominar el análisis de datos experimentales derivados de pruebas de laboratorio para la evaluación de las propiedades mecánicas de los materiales de construcción.",
+                "Poseer la capacidad y el compromiso para integrar y organizar grupos de trabajo multidisciplinarios. ",
+                "Actuar con profesionalismo, ética, compromiso y cuidado del entorno para contribuir al desarrollo de una mejor sociedad. "
+              ]
             }
           },
           {
@@ -27,7 +28,7 @@
               "info": "El egresado de la carrera de Ingeniería en Alimentos de la UTM es un profesionista líder, eficaz, emprendedor, responsable, con compromiso social, elevada capacidad de comunicación y actitud de superación permanente, capaz de aplicar los conocimientos y herramientas científico-tecnológicas al diseño, optimización y evaluación del equipo, plantas, procesos, productos y sistemas de control de calidad, que inciden en la mejora de las condiciones de productividad, conservación, almacenamiento, distribución y manejo de los productos alimenticios, promoviendo así el desarrollo económico, ambiental y social de la región y del país.",
               "skills": [
                 "Conocimientos en ciencia basica",
-                "Conocimiento en el area empresarial y de sistemas de salud", 
+                "Conocimiento en el area empresarial y de sistemas de salud",
                 "Habilidades comunicación asertiva tanto verbal como escrita",
                 "Actitudes y valores como ser responsable y de compromiso social,",
                 "Entusiasta y solidario para el trabajo en equipo"
@@ -95,7 +96,7 @@
             "profile": {
               "info": "Formar ingenieros capaces de optimizar procesos productivos y administrativos para mejorar la eficiencia y competitividad empresarial.",
               "skills": [
-                "Conocimientos de las ciencias básicas y de la ingeniería aplicables para la solución de problemas del desarrollo industrial sustentable, en el ámbito de estudio del trabajo, gestión de la cadena de suministro, formulación y evaluación de proyectos, sistemas productivos y gestión industrial, en empresas e instituciones donde se desempeñe. ", 
+                "Conocimientos de las ciencias básicas y de la ingeniería aplicables para la solución de problemas del desarrollo industrial sustentable, en el ámbito de estudio del trabajo, gestión de la cadena de suministro, formulación y evaluación de proyectos, sistemas productivos y gestión industrial, en empresas e instituciones donde se desempeñe. ",
                 "Habilidad tecnológica en Ingeniería Industrial con capacidad de análisis, interpretación y modelación de sistemas productivos, así como de crear su propia fuente de empleo fundamentada en la pertinencia regional, estatal y nacional.",
                 "Actitudes de responsabilidad social y laboral, así como, valores de disciplina, ética, respeto, equidad, honestidad y lealtad"
               ]
@@ -108,7 +109,7 @@
             "profile": {
               "info": "Capacitar en el diseño, mantenimiento y reparación de sistemas mecánicos aplicados a la industria automotriz.",
               "skills": [
-                "Conocimientos en física y matemáticas que le permiten desarrollar las ciencias de la ingeniería mecánica y automotriz ", 
+                "Conocimientos en física y matemáticas que le permiten desarrollar las ciencias de la ingeniería mecánica y automotriz ",
                 "Conomciminetos en ciencias de la ingeniería como mecánica vectorial, resistencia e ingeniería de materiales, termodinámica y transferencia de calor, mecánica de fluidos, electromagnetismo, circuitos eléctricos y electrónicos para comprender y analizar el funcionamiento de los diferentes componentes de los sistemas automotrices.",
                 "Trabajar en equipos multidisciplinarios y de manera independiente ",
                 "Proponer soluciones prácticas a problemas reales.",
@@ -125,7 +126,7 @@
             "profile": {
               "info": " El egresado será un profesionista con conocimientos en las áreas de ingeniería mecánica, electrónica, de control y computación, capaz de automatizar procesos, diseñar sistemas mecatrónicos, aplicar herramientas computacionales especializadas, dirigir grupos de trabajo, continuar con estudios de posgrado, así como crear, innovar y adaptar tecnologías con conciencia ambiental y ética profesional que contribuya al desarrollo del país.",
               "skills": [
-                "Conocimientos: Ciencias básicas, mecánica, electrónica, control y computación para el análisis y desarrollo de productos y Sistemas Mecatrónicos.", 
+                "Conocimientos: Ciencias básicas, mecánica, electrónica, control y computación para el análisis y desarrollo de productos y Sistemas Mecatrónicos.",
                 "Habilidades: El Ingeniero Mecatrónico poseerá las habilidades para comprender problemas y presentar alternativas de solución a éstos, a través del empleo de los recursos tecnológicos, lo que le lleva a centrar su creatividad en la innovación, mejora y adaptación de la tecnología.",
                 "Valores: La formación en valores y su ética profesional, le permitirá que la toma de decisiones en su ámbito profesional, sea siempre pensando en lograr las mejores condiciones y oportunidades de trabajo para las personas, en condiciones dignas de salud y seguridad, cuidando siempre el entorno ecológico."
               ]
@@ -138,7 +139,7 @@
             "profile": {
               "info": "Los estudiantes de educación media superior, interesados en estudiar la licenciatura en Ingeniería Química en Procesos Sostenibles deben haber cursado materias de ciencias, como química, física y matemáticas, incluidas álgebra, trigonometría y cálculo.  ",
               "skills": [
-                "Habilidad para las matemáticas, física y química.", 
+                "Habilidad para las matemáticas, física y química.",
                 "Interés por la química y sus aplicaciones a nivel industrial.",
                 "Capacidad para identificar y resolver problemas.",
                 "Capacidad de razonamiento, análisis, síntesis y creatividad.",
@@ -154,7 +155,7 @@
             "profile": {
               "info": "El egresado de la Licenciatura en Ciencias Empresariales tendrá la capacidad para iniciar una empresa y/o gestionar una existente. De Identificar oportunidades de negocios, de proponer y emprender responsablemente proyectos en beneficio de su entorno. ",
               "skills": [
-                "Identificar y evaluar oportunidades de negocio con una actitud emprendedora.", 
+                "Identificar y evaluar oportunidades de negocio con una actitud emprendedora.",
                 "Desarrollar y evaluar proyectos de inversión con ética y responsabilidad social.",
                 "Crear, dirigir, desarrollar y/o consolidar empresas desde una perspectiva creativa e innovadora.",
                 "Tomar decisiones efectivas en el manejo y la aplicación de los recursos.",
@@ -169,7 +170,7 @@
             "profile": {
               "info": "El Licenciado en Matemáticas Aplicadas, es un profesional con una sólida formación en Matemáticas y sus aplicaciones actuales, posee gran capacidad de abstracción de la realidad, es capaz de interpretar, crear y resolver modelos matemáticos. Tiene una preparación de calidad que le permite realizar estudios de posgrado en el país y el extranjero. Al mismo tiempo, se desempeña en el sector público y de servicios, en centros de investigación científica y aplicada.",
               "skills": [
-                "Conocimientos sólidos en las áreas del conocimiento: Análisis Matemático, Álgebra, Geometría y Topología, Probabilidad y Estadística y Modelado Matemático.", 
+                "Conocimientos sólidos en las áreas del conocimiento: Análisis Matemático, Álgebra, Geometría y Topología, Probabilidad y Estadística y Modelado Matemático.",
                 "Conocimientos básicos de Programación, Inglés, Mecánica Clásica, Economía Matemática y Lógica Matemática.",
                 "Construir y desarrollar argumentaciones lógicas con una identificación clara de hipótesis y conclusiones, así como de identificación de inconsistencias.",
                 "Discernir el desarrollo lógico de teorías matemáticas y abstraer las relaciones entre ellas. ",
@@ -184,8 +185,745 @@
             "credits": "",
             "duration": "8 semestres",
             "profile": {
-              "info": "El egresado es un profesional con un amplio conocimiento de México, desde una perspectiva multidisciplinaria, que le permite comprender bien su historia y su cultura y además comprender el funcionamiento de su economía, su sistema jurídico y político. El egresado será capaz de integrarse al trabajo y/o dirección de organizaciones civiles y de empresas, particularmente las que se desenvuelven en el campo de las relaciones económicas entre México y Estados Unidos. También podrá desenvolverse profesionalmente en la investigación y la docencia dentro de instituciones educativas del Nivel Medio Superior y Superior, así como en aquellos organismos dedicados al estudio, la investigación y promoción de la cultura mexicana y chicana." ,
+              "info": "El egresado es un profesional con un amplio conocimiento de México, desde una perspectiva multidisciplinaria, que le permite comprender bien su historia y su cultura y además comprender el funcionamiento de su economía, su sistema jurídico y político. El egresado será capaz de integrarse al trabajo y/o dirección de organizaciones civiles y de empresas, particularmente las que se desenvuelven en el campo de las relaciones económicas entre México y Estados Unidos. También podrá desenvolverse profesionalmente en la investigación y la docencia dentro de instituciones educativas del Nivel Medio Superior y Superior, así como en aquellos organismos dedicados al estudio, la investigación y promoción de la cultura mexicana y chicana.",
               "skills": ["", ""]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "idUniveridad": 4,
+    "campusCourses": [
+      {
+        "idCampus": 0,
+        "courses": [
+          {
+            "course": "Ingeniería en Agronomía",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "",
+              "skills": ["", ""]
+            }
+          },
+          {
+            "course": "Licenciatura en Biología Sostenible",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar profesionales de la biología que, con su conocimiento en la problemática socioambiental y del manejo sostenible de los recursos sean capaces de confrontar los desafíos de la crisis ambiental e impactar positivamente en la conservación racional de los servicios ecosistémicos tanto a nivel local como regional de manera sostenible.",
+              "skills": [
+                "Comprender, analizar y dar solución a los diferentes problemas existentes en la producción, mejoramiento genético, sanidad y conservación de los recursos naturales.",
+                "Administrar eficientemente la explotación de un agente natural (unidades de producción, unidades de manejo ambiental, etc.) o poblaciones de organismos, así como industrializar y comercializar sus diferentes productos derivados.",
+                "Ejercer su profesión en forma independiente al crear, dirigir y administrar su propia organización de consultoría con una visión verde-empresarial.",
+                "Trabajar como docente en instituciones públicas o privadas de enseñanza universitaria.",
+                "Prestar sus servicios a dependencias públicas (federales, estatales o regionales) o privadas, dedicadas a la planeación, dirección, organización y desarrollo de programas y proyectos de conservación-producción de las especies y sus derivados, de los hábitats y ecosistemas, tanto silvestres como intervenidos."
+              ]
+            }
+          },
+          {
+            "course": "Ingeniería en Computación",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar profesionales de calidad en las áreas de la ciencia de la computación y tecnologías de la información capaces de competir en el ámbito profesional a nivel nacional e internacional, respetando siempre su medio y a la sociedad.",
+              "skills": [
+                "Una vez concluidos sus estudios, quien egresa de la ingeniería en computación contará con las habilidades, capacidades y conocimientos sólidos para comprender la problemática en las diferentes áreas de la computación e informática, comunicarse de manera clara y significativa con quienes toman decisiones para la resolución de problemas mediante tecnologías de información y telecomunicaciones; permitiéndole laborar en el sector público o privado, que requiera o utilice sistemas electrónicos basados en computadoras con fines de investigación, producción, comercialización o de servicios."
+              ]
+            }
+          },
+          {
+            "course": "Ingeniería en Diseño",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar profesionistas que cuente con los conocimientos y habilidades de ingeniería y diseño para resolver de manera interdisciplinaria problemas que requieran soluciones de un diseño integral para innovación. Desarrollar estudiantes con capacidad para generar conceptos integrales para el diseño. Analizar y aprovechar las propiedades de los materiales para su transformación. Reconocer el diseño integral como el proceso que conjunta armónicamente la ingeniería con tecnologías y conocimientos de la construcción de productos industriales, urbanos, arquitectónicos y de comunicación en las soluciones de diseño de acuerdo al contexto.",
+              "skills": [
+                "El y la ingeniera en diseño contará con conocimientos en ciencias básicas, procesos de ingeniería, metodologías de diseño, desarrollo tecnológico y gestión empresarial, que le permitan desarrollar ideas de manera organizada y sistemáticamente. Habilidades creativas, de organización y desarrollo de ideas, comunicación, trabajo en equipo e interdisciplinario, análisis y síntesis, mentalidad orientada a resolver problemas mediante procesos para el desarrollo de conceptos de diseño integral.",
+                "La capacidad de emprender y adaptarse a diversos ambientes de trabajo, liderazgo, honestidad y ética profesional, interés por los problemas de la comunidad, calidad humana, conciencia del aprovechamiento eficiente de los recursos naturales."
+              ]
+            }
+          },
+          {
+            "course": "Ingeniería en Mecatrónica",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "La Ingeniería en Mecatrónica es una carrera orientada en formar profesionistas que ejercen su vocación tecnológica dentro de un marco legal, teniendo un sentido de responsabilidad social y ambiental, apegado a normas y estándares nacionales e internacionales vigentes para el desarrollo y el bien común",
+              "skills": [
+                "Quienes egresen de la ingeniería en mecatrónica poseerán gran capacidad analítica, de reflexión, abstracción y liderazgo. Estas capacidades le ayudan a crear, innovar y adaptar tecnologías. Además tendrá capacidad para crear empresas o incorporarse con alta competitividad a instituciones públicas o privadas donde se diseñe, innove o se desarrolle tecnología emergente.",
+                "Poseerá una formación interdisciplinaria que lo capacita para comprender problemas en distintas áreas y poder comunicarse de manera clara y significativa con quienes toman decisiones."
+              ]
+            }
+          },
+          {
+            "course": "Ingeniería en Ciencias de Datos y Matemáticas",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "La Ingeniería en Ciencias de Datos y Matemáticas es una carrera científica orientada a formar personas capaces de entender y utilizar conceptos matemáticos de manera crítica para plantear, estudiar y resolver problemas concretos surgidos de actividades productivas o académicas. El objetivo de la carrera es formar profesionales altamente competitivos con conocimientos sólidos en matemáticas aplicadas, con capacidad para el trabajo interdisciplinario, capaces de detectar y resolver problemas sociales y económicos que impacten en el desarrollo educativo, científico, tecnológico, social y humano del estado de Oaxaca y del país",
+              "skills": [
+                "Quienes se licencien en Ingeniería en Ciencias de Datos y Matemáticas serán profesionistas con gran capacidad de reflexión y de abstracción para el planteamiento, modelación, simulación, análisis y resolución de problemas mediante métodos matemáticos.",
+                "En su formación se conjuntan investigación, programación, análisis estadístico e investigación tecnológica y científica para satisfacer los requerimientos de las empresas públicas y privadas en las áreas de docencia, investigación, capacitación, administración, planeación, economía y finanzas.",
+                "Además se completa su formación con técnicas computacionales que le brindarán versatilidad a sus esquemas de trabajo y la capacidad de desarrollar prototipos computacionales de sus alternativas de solución."
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Medicina Veterinaria y Zootecnia",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "",
+              "skills": [""]
+            }
+          }
+        ]
+      },
+      {
+        "idCampus": 1,
+        "courses": [
+          {
+            "course": "Ingeniería en Alimentos",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar profesionistas capaces de resolver problemas dentro de la cadena de producción de alimentos, aplicando principios de ingeniería, ciencia y tecnología de alimentos.Durante la formación profesional se incluyen aspectos de manejo, procesamiento, transformación, almacenamiento y control de calidad. Se exhorta al estudiante al manejo de operaciones que integran el proceso óptimo de fabricación y/o elaboración de alimentos con materias primas de calidad, resultado de la agricultura, pesca, ganadería y avicultura. Todo lo anterior bajo el contexto de sustentabilidad, cuidado al medio ambiente, control de desperdicios de alimentos y acceso de alimentos inocuos y nutritivos para todos.",
+              "skills": [
+                "Capacidad para seleccionar, diseñar e innovar en líneas de producción.",
+                "Reproduce, desarrolla y crea nuevos alimentos con base en las necesidades y recursos disponibles para la sociedad.",
+                "Se encarga del control de calidad, funcionamiento y mejora de los procesos de fabricación mediante la mejora continua del personal operativo, fomento de la inocuidad y sanidad del proceso.",
+                "Es capaz de enfrentar nuevos retos de emprendimiento generando su propia empresa mediante la implementación de proyectos productivos en el sector agroalimentario o bien intervenir en el sector académico mediante la docencia e investigación realizando estudios de posgrado."
+              ]
+            }
+          },
+          {
+            "course": "Ingeniería en Biotecnología",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar profesionistas preparados de forma multidisciplinaria para identificar con sensibilidad social y ética, áreas de oportunidad productiva que puedan ser potenciadas implementando el conocimiento biológico de los seres vivos y sus biomoléculas para aplicar soluciones de ingeniería sustentadas en la investigación y desarrollo de la biotecnología.",
+              "skills": [
+                "El Ingeniero en Biotecnología egresado de la Universidad del Papaloapan es un profesionista multidisciplinario con la capacidad científica, técnica, ética y con sentido social para proponer y ejecutar soluciones pertinentes, sustentadas en esquemas de Investigación y Desarrollo de Tecnologías, que potencien las actividades económicas con base en el aprovechamiento de seres vivos, sus biomoléculas y sus procesos, en empresas y centros de investigación biotecnológicos, tanto públicos como privados."
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Ciencias Empresariales",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar profesionales de excelencia académica en las ciencias empresariales, con una visión integral para desarrollar y aplicar estrategias que promuevan la innovación, la calidad y la productividad, capaz de afrontar los cambios del entorno, que coadyuve al crecimiento económico mediante la creación, dirección o desarrollo de empresas eficientes y competitivas, sensible a ejercer funciones de liderazgo, ejercicio ético de la profesión y conciencia de responsabilidad social.",
+              "skills": [
+                "El y la Licenciada en Ciencias Empresariales serán profesionals emprendedores con capacidad para participar en la creación, desarrollo y consolidación de una organización.",
+                "Poseerán las competencias suficientes para organizar, coordinar y dirigir equipos multidisciplinarios, siendo promotores de la responsabilidad social, la innovación y la creatividad a través del diseño de modelos empresariales que incidan en la transformación de su entorno social y coadyuven en el desarrollo regional sustentable, bajo una perspectiva global."
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Ciencias Químicas",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar profesionistas que se caracterizan por poseer sólidos conocimientos en la estructura, transformación, propiedades físico-químicas, análisis cualitativo y cuantitativo de la materia; en metodologías de síntesis de nuevos productos como materiales con uso industrial o compuestos con actividad biológica, así como en los procesos bioquímicos relacionados con los organismos y su interacción con el medio ambiente; lo que les permitirá establecer procedimientos y soluciones a problemas medioambientales y de la industria química, además por su formación puede integrarse a grupos de investigación multidisciplinaria y desempeñarse en el ámbito docente, tanto en el sector público o privado.",
+              "skills": [
+                "Cuentan con conocimientos en distintas áreas de la química, especialmente en la fisicoquímica, química orgánica e inorgánica, química analítica, industrial y bioquímica.",
+                "Poseen una formación científica y tecnológica con la capacidad de aplicar estos conocimientos en la creación, análisis y desarrollo de procesos químicos y bioquímicos sustentables para cubrir las demandas de la industria química, de la investigación en el desarrollo y formulación de nuevos productos.",
+                "Analizan muestras mediante la implementación y desarrollo de técnicas analíticas modernas a través de un sólido conocimiento en el manejo de equipo instrumental para el control de calidad de materias primas y productos químicos.",
+                "Sinterizan, purifican y caracterizan productos químicos."
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Enfermería",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar Licenciada/os en Enfermería capaces de brindar cuidado integral a la salud del individuo, familia y comunidad, mediante la valoración y detección de las necesidades en personas (sanas o enfermas) y la determinación de diagnósticos enfermeros, así como elaboración y aplicación de planes de cuidados de acuerdo con el ciclo vital humano en los aspectos biológico, psicológico, social y espiritual.",
+              "skills": [
+                "Egresada/os de esta carrera proporcionarán una atención de enfermería integral y efectiva al individuo, familia y comunidad en cualquier fase del proceso de salud– enfermedad y en todas las etapas de la vida, enfatizando sus acciones a lograr la adaptación del ser humano ante los factores internos y del contexto que determinan la conservación o pérdida de la salud, aplicando los principios éticos de la profesión basados en un sistema de valores que girarán en torno al respeto a la vida y dignidad del ser humano."
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Medicina",
+            "credits": "",
+            "duration": "12 semestres",
+            "profile": {
+              "info": "Formar profesionistas con conocimientos teóricos, metodológicos y prácticos de las ciencias médicas, que le otorgan la capacidad de realizar vigilancia del estado de salud y de los factores bio-psico-sociales y ambientales asociados a los procesos salud-enfermedad-atención, con la finalidad de establecer un plan de acción diagnóstico-terapéutico y de seguimiento que, con la participación activa del individuo y su familia, permitan modificar el pronóstico para limitar el daño, evitar complicaciones y procurar la restauración de la salud; y asimismo tiene la capacidad de identificar motivos de referencia a un nivel especializado, permitiendo el trabajo multidisciplinario.",
+              "skills": [
+                "La licenciada y el Licenciado en Medicina posee conocimientos teóricos, metodológicos y prácticos de las ciencias médicas, que le otorgan la capacidad de realizar vigilancia del estado de salud y de los factores bio-psico-sociales y ambientales asociados a los procesos salud-enfermedad-atención, con la finalidad de establecer un plan de acción diagnóstico-terapéutico y de seguimiento que, con la participación activa del individuo y su familia, permitan modificar el pronóstico para limitar el daño, evitar complicaciones y procurar la restauración de la salud; y asimismo tiene la capacidad de identificar motivos de referencia a un nivel especializado, permitiendo el trabajo multidisciplinario.",
+                "Hace uso de los diferentes métodos (clínico, epidemiológico, humanístico y científico), para el abordaje de los fenómenos en salud, permitiéndole tomar decisiones basadas en evidencias que aseguran una mejor opción en el manejo del y la paciente, adecuándose a las necesidades y condiciones individuales de cada caso.",
+                "Actúa con valores éticos que le permiten una práctica clínica centrada en el y la paciente y en los factores que determinan su estado de salud, reafirmando con esto el compromiso e interés de generar respuestas efectivas a las necesidades en salud desde un contexto integral.",
+                "Incide en los factores de riesgo mediante la promoción de estilos de vida saludables, empoderando al individuo, familia y sociedad en el cuidado de su salud, desde las necesidades identificadas por si misma/os, las cuales le permiten al Licenciado y la licenciada en Medicina proponer planes desde la estrategia de atención primaria a la salud con intervenciones basadas en las prácticas recomendadas, reduciendo los errores metodológicos que permitan la medición de los resultados de su intervención.",
+                "Desarrolla, integra y promueve investigaciones biomédicas y sociomédicas para generar evidencia científica en el actuar médico y en la toma de decisiones en salud.",
+                "Tiene los conocimientos y habilidades para continuar con estudios de posgrado de calidad a nivel nacional e internacional en el área de la salud.",
+                "Promueve con ética y humanismo actividades de educación para la formación de recursos humanos en salud, fomentando un clima de respeto, compromiso, confianza y empatía.",
+                "Dirige equipos de salud, trabaja con profesionales de diversas áreas en forma armónica, además aplica conocimientos para la gestión de programas de salud y aporta un pensamiento crítico-reflexivo para el diseño y evaluación de políticas, planes y programas de salud."
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Químico Farmacobiólogo",
+            "credits": "",
+            "duration": "",
+            "profile": {
+              "info": "",
+              "skills": [""]
+            }
+          },
+          {
+            "course": "Ingeniería en Innovación y Desarrollo de Productos Agropecuarios",
+            "credits": "",
+            "duration": "",
+            "profile": {
+              "info": "",
+              "skills": [""]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "idUniveridad": 5,
+    "campusCourses": [
+      {
+        "idCampus": 0,
+        "courses": [
+          {
+            "course": "Licenciatura en Administración Municipal",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar profesionistas competitivos, críticos y comprometidos con la sociedad, con sólidos conocimientos de vanguardia en administración municipal, capaces de liderar soluciones innovadoras acordes a la realidad social, económica, política y ambiental de los municipios del país y del mundo, a través de la formulación e implementación de propuestas en los ámbitos de la gestión municipal, el desarrollo local y las finanzas municipales.",
+              "skills": [
+                "Persona con actitudes de responsabilidad y honestidad en el desempeño de su profesión; con iniciativa y espíritu de servicio",
+                "Profesionista competitivo, con formación académica de vanguardia municipalista",
+                "Realizar una gestión eficiente; analizar de manera crítica diversas situaciones; trabajar bajo presión y en equipos interdisciplinarios"
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Administración Pública",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar profesionistas de la Administración Pública competentes en el desempeño de organizaciones del sector público, con la capacidad de administrar y gestionar los recursos de manera eficiente y eficaz, así como analizar, diseñar, implementar y evaluar proyectos, planes, políticas y acciones públicas orientados al desarrollo del gobierno y de la sociedad. Esto con una formación técnica y humanista que considere principios de equidad, solidaridad, justicia social, eficiencia y eficacia en la atención de los asuntos públicos.",
+              "skills": [
+                "Conoce la organización, la estructura, las funciones, así como los fundamentos jurídicos y teóricos del Estado",
+                "Está capacitado para elaborar, implementar y evaluar políticas públicas",
+                "Es capaz de tomar decisiones y de negociar en asuntos públicos",
+                "Analiza problemas en los diversos ámbitos del sector público para proponer gestionar soluciones en los tres ámbitos gubernamentales"
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Ciencias Biomédicas",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar Licenciados en Ciencias Biomédicas con capacidad, habilidades y entendimiento del método científico que contribuyan a generar y difundir conocimiento científico para mejorar la salud de la sociedad a través del ejercicio de su profesión, con bases teóricas, técnicas y científicas.",
+              "skills": [
+                "Tiene una formación teórica, técnica y científica de calidad, con conocimientos de las ciencias biomédicas para su aplicación en actividades orientadas a la investigación y divulgación científica",
+                "Darle seguimiento a proyectos de investigación, colaborando con la generación y difusión de conocimientos científicos y tecnológicos del estado y del país, con un actuar ético reflexivo, crítico y competitivo"
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Ciencias Empresariales",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar profesionales de excelencia académica en las áreas disciplinares que conforman las Ciencias Empresariales, con una visión integral en habilidades y actitudes requeridas para la aplicación de estrategias exitosas en el ámbito de los negocios.",
+              "skills": [
+                "Está en posibilidades de cubrir integralmente las necesidades que se generan en la actividad empresarial de la región, del estado y del país, en función del aprendizaje en las áreas de conocimiento que forman parte del programa del plan de estudio"
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Enfermería",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar Licenciados en Enfermería capaces de brindar cuidado integral a la salud del individuo, familia y comunidad, mediante la valoración y detección de las necesidades en personas (sanas o enfermas) y la determinación de diagnósticos enfermeros, así como elaboración y aplicación de planes de cuidados de acuerdo al ciclo vital humano en los aspectos biológico, psicológico, social y espiritual.",
+              "skills": [
+                "Centa con los elementos científicos, humanísticos y disciplinares para lograr el cuidado integral de la salud humana enfatizando en la prevención y procuración de la misma en las zonas de mayor riesgo epidemiológico"
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Informática",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar Licenciados en Informática con una sólida preparación científica, tecnológica y humanista, con la capacidad y habilidad para analizar, desarrollar e implementar sistemas de información, así como para administrar ópticamente los recursos informáticos, actuando como agentes de cambio para el desarrollo de la región, del estado y del país.",
+              "skills": [
+                "Es capaz de diseñar estrategias dentro de una organización para detectar y satisfacer necesidades organizacionales relativas al uso y empleo de la información, a través de la creación, administración y mantenimiento de los servicios y sistemas de tratamiento de información integrados y eficientes",
+                "Selecciona y utiliza de manera óptima las herramientas computacionales actuales y emergentes",
+                "Está capacitado para diseñar e instalar redes de cómputo, así como para administrar los recursos computacionales para la transmisión y proceso de datos distribuidos de manera eficiente",
+                "Dirige y participa en grupos de trabajo multi e interdisciplinarios que proponen soluciones integrales en su entorno",
+                "Observa y fomenta el cumplimiento de las disposiciones de carácter legal relacionadas con la función informática"
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Medicina",
+            "credits": "",
+            "duration": "12 semestres",
+            "profile": {
+              "info": "Formar Licenciados en Medicina que contribuyan a mejorar el estado de salud de la sociedad a través del ejercicio de su profesión, por medio de las bases técnico-científicas y su actuar ético reflexivo, crítico y competitivo, bajo un marco de compromiso y adhesión a las estrategias y recomendaciones de la práctica profesional médica.",
+              "skills": [
+                "Actúa con valores éticos que le permiten una práctica clínica centrada en el paciente y en los factores que determinan su estado de salud, reafirmando con esto el compromiso e interés de generar respuestas efectivas a las necesidades en salud desde un contexto integral",
+                "Desarrolla, integra y promueve investigaciones biomédicas y sociomédicas para generar evidencia científica en el actuar médico y en la toma de decisiones en salud",
+                "Tiene los conocimientos y habilidades para continuar con estudios de posgrado de calidad a nivel nacional e internacional en el área de la salud",
+                "Promueve con ética y humanismo actividades de educación para la formación de recursos humanos en salud fomentando un clima de respeto, compromiso, confianza y empatía",
+                "Dirige equipos de salud, trabaja con profesionales de diversas áreas en forma armónica, además aplica conocimientos para la gestión de programas de salud y aporta un pensamiento crítico-reflexivo para el diseño y evaluación de políticas, planes y programas de salud"
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Nutrición",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar Licenciados en Nutrición competentes para atender problemáticas relacionadas con la alimentación y nutrición a nivel individual y poblacional en el proceso de salud-enfermedad, así como manejar servicios de alimentos y modificar la calidad nutrimental de productos alimenticios; con la finalidad de prevenir y promoverla salud a nivel local, regional, estatal y nacional. Siendo capaces de integrarse en un grupo multidisciplinario con sentido de solidaridad, ética y responsabilidad social.",
+              "skills": [
+                "Realizar evaluaciones del estado nutrición, diagnósticos, pronósticos, tratamientos a nivel individual, grupal en áreas clínicas y comunitarias",
+                "Administrar servicios y programas de alimentación y nutrición",
+                "Contara con herramientas básicas para investigar el diagnostico nutricional de las comunidades, así como realizar investigaciones sobre el valor nutritivo de los alimentos",
+                "Proporcionar asesorías nutricionales en los diferentes niveles de atención medica que se le solicite. Desarrollar acciones colectivas de promoción de la salud y de educación nutricional en los diferentes segmentos poblacionales"
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Odontología",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar Licenciados en Odontología con una sólida preparación profesional, clínica y humanista, capaces de brindar servicios de calidad para la promoción de la salud bucal, la prevención, detección, diagnóstico y tratamiento de las enfermedades bucodentales, así como para generar y aplicar estrategias, técnicas operativas y medidas de control y vigilancia epidemiológica necesarias en materia de salud pública dental; con un alto sentido de solidaridad, ética y responsabilidad social.",
+              "skills": [
+                "Es un profesionista preparado para incentivar y proponer estrategias para la prevención de enfermedades dentales, promover la salud dental a nivel individual y comunitario y manejar oportunamente el diagnóstico del paciente para la aplicación de soluciones restauradoras, con altos estándares de calidad",
+                "Es un profesionista competitivo, capaz de resolver afectaciones bucodentales del paciente, con una formación integral y un alto nivel técnico-científico, para brindar servicios y tratamientos con responsabilidad social en apego a los valores universales"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "idUniveridad": 7,
+    "campusCourses": [
+      {
+        "idCampus": 0,
+        "courses": [
+          {
+            "course": "Ingeniería en Agroindustrias",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "El Ingeniero en Agroindustrias es un profesional capaz de identificar los recursos aprovechables de una región, a fin de transformarlos en productos con valor agregado.",
+              "skills": [
+                "Cuenta con los conocimientos biológicos y tecnológicos que le permiten plantear y desarrollar proyectos que impulsen la creación y operación de empresas agroindustriales",
+                " Está capacitado para crear e implementar maquinaria y procesos necesarios para la transformación de la materia prima en producto terminado de alta calidad",
+                "Analiza la situación de los productores agropecuarios en su contexto regional, estatal y nacional para proponer nuevas alternativas de transformación y comercialización de sus productos",
+                "Adquiere las bases necesarias para realizar estudios de postgrado en instituciones nacionales o extranjeras"
+              ]
+            }
+          },
+          {
+            "course": "Ingeniería en Alimentos",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "El Ingeniero en Alimentos aplica los principios de la Ciencia y Tecnología de Alimentos a la resolución de problemas que ocurren dentro de la cadena de producción de alimentos, principalmente desde la materia prima hasta el consumo final, abarcando aspectos como el manejo, almacenamiento, procesamiento y transformación, a fin de conservar o mejorar sus características químicas, fisicoquímicas, sensoriales y nutrimentales.",
+              "skills": [
+                "Trabaja con productos resultado de la agricultura, pesca, ganadería y avicultura para transformarlos en alimentos con mayor vida útil",
+                "Determina la secuencia de operaciones para integrar un proceso óptimo de fabricación de un producto determinado",
+                "Diseña, modifica o selecciona el equipo y determina el tamaño y capacidad requeridas para la obtención de un producto en base al proceso, disponibilidad de materia prima, y/o producción deseada",
+                "Desarrolla nuevos productos en base a las necesidades y recursos disponibles de la sociedad, además de que participa en la búsqueda de nuevas fuentes de alimentos",
+                "Se encarga del control, funcionamiento y mejora del procesamiento de alimentos, a fin de obtener la mejor calidad al menor costo, procurando la preservación del medio ambiente",
+                "Implementa sistemas de evaluación de la calidad de los productos alimentarios para asegurar la aceptación, sanidad y seguridad de los mismos"
+              ]
+            }
+          },
+          {
+            "course": "Ingeniería en Farmacobiología",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar profesionales capaces de desarrollar investigación científica y tecnológica orientada a la identificación, aislamiento y determinación de metabolitos y productos derivados de fuentes naturales, útiles en la industria farmacéutica, procurando siempre el aprovechamiento sustentable de las especies.",
+              "skills": [
+                "Está capacitado para aislar metabolitos con actividad terapéutica a partir de fuentes naturales. Es capaz de diseñar procesos de síntesis para nuevos fármacos",
+                "Participa en el desarrollo de nuevas fórmulas de medicamentos, proponiendo alternativas para su presentación, administración y almacenamiento, así como los excipientes y vehículos ideales para su administración",
+                "Diseña la maquinaria, equipo y procesos industriales adecuados para la producción de medicamentos a gran escala",
+                "Establece y vigila mecanismos de control de calidad de productos farmacéuticos durante su fabricación y distribución",
+                "Participa en proyectos multidisciplinarios encaminados a la búsqueda de nuevas alternativas para la prevención y curación de enfermedades",
+                "Adquiere los conocimientos necesarios para realizar estudios de postgrado en instituciones nacionales o extranjeras"
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Informática",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar licenciados en Informática líderes, analíticos, críticos, creativos y emprendedores, con una sólida preparación científica, tecnológica y humanista, con la capacidad y habilidad para analizar, desarrollar e implementar sistemas de información, así como para administrar óptimamente los recursos informáticos de una empresa o institución para contribuir a mejorar su funcionamiento, colaborando activamente para dar respuesta a la problemática y necesidades que se detecten en materia de Informática, actuando como agentes de cambio para el desarrollo de la región, del estado y por consecuencia del país.",
+              "skills": [
+                "Es capaz de diseñar estrategias dentro de una organización para detectar y satisfacer necesidades organizacionales relativas al uso y empleo de la información, a través de la creación, administración y mantenimiento de los servicios y sistemas de tratamiento de información integrados y eficientes",
+                "Selecciona y utiliza de manera óptima las herramientas computacionales actuales y emergentes",
+                "Está capacitado para diseñar e instalar redes de cómputo, así como para administrar los recursos computacionales para la transmisión y proceso de datos distribuidos de manera eficiente",
+                "Dirige y participa en grupos de trabajo multi e interdisciplinarios que proponen soluciones integrales en su entorno",
+                "Observa y fomenta el cumplimiento de las disposiciones de carácter legal relacionadas con la función informática",
+                "Realiza y participa en proyectos de investigación científica y tecnológica",
+                "Aplica normas y estándares de calidad en el ejercicio de la función informática",
+                "Actúa como agente de cambio al ser capaz de descubrir oportunidades de negocio que eleven el nivel de vida de la región, del estado y del país",
+                "Se desempeña profesionalmente con ética, manteniendo una actitud de aprendizaje continuo y afrontando los retos"
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Nutrición",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar Licenciados en Nutrición competentes para atender problemáticas relacionadas con la alimentación y nutrición a nivel individual y poblacional en el proceso de salud-enfermedad, así como manejar servicios de alimentos y modificar la calidad nutrimental de productos alimenticios; con la finalidad de prevenir y promover la salud a nivel local, regional, estatal y nacional. Siendo capaces de integrarse en un grupo multidisciplinario con sentido de solidaridad, ética y responsabilidad social.",
+              "skills": [
+                "Contará con herramientas básicas para realizar el diagnóstico nutricional de las comunidades",
+                "Será capaz de determinar el valor nutritivo de los alimentos",
+                "Proporcionará asesorías nutricionales en los diferentes niveles de atención médica",
+                "Desarrollará acciones colectivas de promoción de la salud y de educación nutricional en los diferentes segmentos poblacionales",
+                "Podrá integrarse en equipos de salud multidisciplinarios, hospitalarios, investigación y docencia que aborden problemas relacionados con la nutrición"
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Producción Sustentable",
+            "credits": "",
+            "duration": "8 semestres",
+            "profile": {
+              "info": "",
+              "skills": [
+                "Poseer conocimientos sólidos en la producción agropecuaria y en la transformación de productos primarios con una perspectiva integral en el manejo sustentable de los recursos naturales",
+                "Manejar unidades de producción agrícola y pecuaria aplicando prácticas que promuevan a mediano y largo plazo la calidad del medio ambiente y sus recursos",
+                "Diseñar, proponer e implementar procesos de conservación, transformación e industrialización de productos primarios en alimentos con mayor vida útil, garantizando productos inocuos que contribuyan con el fortalecimiento de la seguridad alimentaria",
+                "Gestionar y evaluar proyectos productivos agropecuarios económicamente viables que impulsen la conservación del medio ambiente y el desarrollo socioeconómico de los productores de una región",
+                "Crear, dirigir y/o asesorar microempresas regionales para la producción o transformación sustentable de productos agropecuarios o alimentarios",
+                "Desarrollar nuevos productos para hacer un uso sustentable de los recursos naturales de una región"
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Química Clínica",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "El objetivo principal de la licenciatura en Química clínica es formar profesionales en el área de la salud con conocimientos y habilidades que les permitan coadyuvar en el diagnóstico de enfermedades y contribuir a la implementación de procedimientos de prevención que incidan directamente en su prevalencia.",
+              "skills": [
+                "Cuenta con los conocimientos y habilidades necesarias para desempeñarse como profesional en el área de la salud al coadyuvar en el diagnóstico de enfermedades, realizar estudios de prevalencia y epidemiología y colaborar en el diseño de estrategias de prevención",
+                "Tendrá, además, la posibilidad de integrarse a instituciones de investigación para colaborar, plantear y desarrollar proyectos de ciencia básica y aplicada referente a problemas de salud"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "idUniveridad": 10,
+    "campusCourses": [
+      {
+        "idCampus": 0,
+        "courses": [
+          {
+            "course": "Licenciatura en Contaduría Pública y Administración",
+            "credits": "",
+            "duration": "8 semestres",
+            "profile": {
+              "info": "Formar profesionistas altamente capacitados para incidir a nivel local, regional y nacional en el desarrollo económico y social, a través de proyectos integrales, incluyentes y con alto grado de ética y responsabilidad social, que serán desarrollados de forma independiente o en entidades privadas, el sector gubernamental o polígonos industriales que impulsen la eficiencia, la rentabilidad y la sociedad del cambio.",
+              "skills": [
+                "Gestionar el crecimiento financiero de las organizaciones a partir de la creación de estrategias innovadoras en las áreas financiera, fiscal y administrativa, basándose en normas y procedimientos de contaduría y finanzas nacionales e internacionales.",
+                "Contribuir a la creación, gestión y/o dirección de organizaciones empresariales, con un enfoque ético y socialmente responsable.",
+                " Participar activamente en la gestión y dirección orientada al control de riesgos, la certificación de procesos administrativos y de control interno.",
+                "Desempeñar con compromiso actividades de consultoría fiscal, financiera, de auditoría y administrativa en el ámbito de los negocios.",
+                "Diseñar e implementar sistemas de contabilidad gubernamental que promuevan la eficiencia en el uso de los recursos del Estado."
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Enfermería",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "",
+              "skills": [
+                "El Licenciado en Enfermería es un profesional con competencias teóricas-prácticas sustentadas en las áreas cognitiva, psicomotriz y afectiva, con fundamentos derivados del análisis teórico de la profesión, para brindar cuidado integral al ser humano sano o enfermo en los diferentes niveles de atención. Está orientado a procurar el bienestar del individuo, familia y comunidad, mediante las cuatro funciones sustanciales: asistencial, administrativa, docente e investigativa, basando su praxis en los principios legales y bioéticos de la enfermería, para así enfrentar los retos del presente y futuro en relación al proceso salud-enfermedad. "
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Fisioterapia",
+            "credits": "",
+            "duration": "8 semestres",
+            "profile": {
+              "info": "Formar profesionales del área fisioterapéutica altamente capacitados, con responsabilidad social y sentido humanista a través, de un enfoque integral y multidisciplinario centrado en el desarrollo de habilidades necesarias para evaluar, diagnosticar y tratar diversas condiciones físicas, con una comprensión profunda del cuerpo humano y sus funciones, así como sólidas habilidades clínicas; promoviendo la salud, la función y la calidad de vida de los pacientes por medio del trabajo en equipo, comunicación asertiva, creatividad, liderazgo y emprendimiento con sentido ético.",
+              "skills": [
+                "El licenciado en fisioterapia poseerá amplio conocimiento del cuerpo humano y sus funciones con una sólida comprensión de los principios científicos y técnicas terapéuticas necesarias para evaluar, diagnosticar y tratar una amplia variedad de condiciones físicas.",
+                "Contará con habilidades clínicas avanzadas, lo que le permitirá proporcionar intervenciones efectivas y personalizadas para mejorar la salud, la función y la calidad de vida de los pacientes.",
+                "Asimismo, estará capacitado para trabajar de manera ética y colaborativa en equipos multidisciplinarios con comunicación asertiva, creatividad y liderazgo, contribuyendo al bienestar de la sociedad mediante la aplicación de enfoques integrales y centrados en el paciente ya sea en el sector público o privado."
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Gestión de Negocios Gastronómicos",
+            "credits": "",
+            "duration": "8 semestres",
+            "profile": {
+              "info": "Formar profesionistas inclusivos y altamente capacitados en el campo de la gastronomía con habilidades para la gestión de negocios de la industria gastronómica, liderazgo innovador, emprendimiento con sentido ético, responsabilidad social, trabajo en equipo, comunicación asertiva y creatividad para el desarrollo de nuevos productos alimenticios y platillos, basados en los principios culinarios regionales, nacionales e internacionales.",
+              "skills": [
+                "La licenciada y el licenciado en Gestión de Negocios Gastronómicos podrá desempeñarse en: Empresas del sector industrial de la transformación de alimentos y bebidas, Empresas restauranteras, Empresas banqueteras, Cadenas hoteleras, Comedores industriales, Turismo gastronómico y cruceros, Investigador y consultor independiente, Emprendimiento de negocios dentro de la industria gastronómica   "
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Nutrición",
+            "credits": "",
+            "duration": "10 semestres",
+            "profile": {
+              "info": "Formar licenciados en Nutrición competentes para atender problemas relacionados con la alimentación y la nutrición a nivel individual y poblacional en el proceso de salud-enfermedad, manejar servicios de alimentos, así como modificar la calidad nutrimental de productos alimenticios; con la finalidad de prevenir y promover la salud a nivel local, regional, estatal y nacional, con sentido de solidaridad, ética y responsabilidad social.",
+              "skills": [
+                "Conoce los aspectos fundamentales de la promoción de la salud y la prevención de enfermedades a través de la concepción, planeación, ejecución y evaluación de intervenciones alimentarias y nutricionales a nivel poblacional.",
+                "Brinda un plan de cuidado nutricio a individuos en el proceso de salud-enfermedad a través de la evaluación nutricional, establecimiento del diagnóstico nutricio, intervención nutricia y monitoreo; gestiona servicios de alimentos a diferentes colectividades a través de la planeación, organización, dirección y control, además de participar en el aseguramiento de la calidad de los alimentos mejora la calidad nutrimental de productos alimenticios a través de la innovación y evaluación.",
+                "Es un profesionista con actitudes de responsabilidad y honestidad en el desempeño de su profesión, con iniciativa, espíritu de servicio y con capacidad para integrarse en grupos multidisciplinarios, así como con un profundo sentido de ética en el cuidado de la salud y la alimentación."
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "idUniversidad": 2,
+    "campusCourses": [
+      {
+        "idCampus": 0,
+        "courses": [
+          {
+            "course": "Ingeniería Forestal",
+            "credits": "",
+            "duration": "",
+            "profile": {
+              "info": "Profesionales en manejo y conservación forestal con enfoque sustentable y habilidades en planeación y gestión de recursos.",
+              "skills": "Manejo forestal, conservación de ecosistemas, silvicultura, planificación y gestión sustentable."
+            }
+          },
+          {
+            "course": "Licenciatura en Biología",
+            "credits": "",
+            "duration": "",
+            "profile": {
+              "info": "Formación en investigación científica aplicada a biodiversidad y ecología con enfoque interdisciplinario.",
+              "skills": "Biodiversidad, trabajo de campo y laboratorio, pensamiento crítico, interdisciplinariedad, ética profesional."
+            }
+          },
+          {
+            "course": "Licenciatura en Enfermería",
+            "credits": "",
+            "duration": "",
+            "profile": {
+              "info": "Profesional en cuidado integral del ser humano con bases teórico-prácticas y principios bioéticos.",
+              "skills": "Cuidado integral, administración, docencia, investigación, ética y bioética."
+            }
+          },
+          {
+            "course": "Licenciatura en Informática",
+            "credits": "",
+            "duration": "",
+            "profile": {
+              "info": "Diseño y administración de sistemas de información y redes, con capacidad para investigación tecnológica.",
+              "skills": "Sistemas de información, redes de cómputo, trabajo multidisciplinario, cumplimiento legal, investigación."
+            }
+          },
+          {
+            "course": "Licenciatura en Medicina Veterinaria y Zootecnia",
+            "credits": "",
+            "duration": "",
+            "profile": {
+              "info": "Manejo sustentable de animales domésticos y fauna silvestre, con diseño de instalaciones y planes nutricionales.",
+              "skills": "Manejo animal, diseño de instalaciones, bienestar animal, nutrición sustentable."
+            }
+          }
+        ]
+      },
+      {
+        "idCampus": 1,
+        "courses": [
+          {
+            "course": "Ingeniería Ambiental",
+            "credits": "",
+            "duration": "",
+            "profile": {
+              "info": "Profesionales para prevenir y solucionar problemas ambientales con enfoque sostenible y liderazgo ético.",
+              "skills": "Gestión ambiental, tecnologías limpias, evaluación de impactos, liderazgo, trabajo interdisciplinario."
+            }
+          },
+          {
+            "course": "Ingeniería en Acuicultura",
+            "credits": "",
+            "duration": "",
+            "profile": {
+              "info": "Capacitados para diseñar y administrar sistemas acuícolas sustentables y promover el desarrollo regional.",
+              "skills": "Diseño de sistemas acuícolas, administración, trabajo interdisciplinario, evaluación de proyectos."
+            }
+          },
+          {
+            "course": "Licenciatura en Biología Marina",
+            "credits": "",
+            "duration": "",
+            "profile": {
+              "info": "Formación en manejo integral de recursos marinos y costeros con enfoque científico y ambiental.",
+              "skills": "Biología marina, trabajo de campo, laboratorio, disciplina, curiosidad científica."
+            }
+          },
+          {
+            "course": "Licenciatura en Oceanología",
+            "credits": "",
+            "duration": "",
+            "profile": {
+              "info": "Análisis y gestión de fenómenos oceánicos y proyectos ecológicos con enfoque en sustentabilidad global.",
+              "skills": "Análisis oceánico, gestión de recursos marinos, proyectos ecológicos, investigación ambiental."
+            }
+          }
+        ]
+      },
+      {
+        "idCampus": 2,
+        "courses": [
+          {
+            "course": "Licenciatura en Actuaría",
+            "credits": "",
+            "duration": "",
+            "profile": {
+              "info": "Evaluación y gestión de riesgos económicos y financieros con capacidad investigativa y trabajo colaborativo.",
+              "skills": "Evaluación de riesgos, gestión integral, negociación, investigación, trabajo en equipo."
+            }
+          },
+          {
+            "course": "Licenciatura en Administración Turística",
+            "credits": "",
+            "duration": "",
+            "profile": {
+              "info": "Profesionales multidisciplinarios para gestionar y desarrollar el sector turístico con ética y liderazgo.",
+              "skills": "Gestión turística, marketing, desarrollo sustentable, liderazgo, ética profesional."
+            }
+          },
+          {
+            "course": "Licenciatura en Ciencias de la Comunicación",
+            "credits": "",
+            "duration": "",
+            "profile": {
+              "info": "Competencias para gestionar procesos comunicativos con ética y capacidad crítica en contextos locales y globales.",
+              "skills": "Comunicación social, gestión de proyectos, producción de mensajes, análisis crítico, ética."
+            }
+          },
+          {
+            "course": "Licenciatura en Economía",
+            "credits": "",
+            "duration": "",
+            "profile": {
+              "info": "Formación en teoría y análisis económico con habilidades matemáticas y conocimiento contextual.",
+              "skills": "Teoría económica, análisis matemático, herramientas metodológicas, contexto histórico."
+            }
+          },
+          {
+            "course": "Licenciatura en Relaciones Internacionales",
+            "credits": "",
+            "duration": "",
+            "profile": {
+              "info": "Conocimientos para asesoría, diplomacia y gestión en ámbitos internacionales con ética y responsabilidad.",
+              "skills": "Política internacional, globalización, diplomacia, asesoría, ética profesional."
+            }
+          }
+        ]
+      },
+      {
+        "idCampus": 3,
+        "courses": [
+          {
+            "course": "Licenciatura en Relaciones Internacionales",
+            "credits": "",
+            "duration": "",
+            "profile": {
+              "info": "Conocimientos para asesoría, diplomacia y gestión en ámbitos internacionales con ética y responsabilidad.",
+              "skills": "Política internacional, globalización, diplomacia, asesoría, ética profesional."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "idUniversidad": 6,
+    "campusCourses": [
+      {
+        "idCampus": 0,
+        "courses": [
+          {
+            "course": "Licenciatura en Biología",
+            "credits": "",
+            "duration": "",
+            "profile": {
+              "info": "Capacita para realizar investigación y aplicar conocimientos científicos en áreas de desarrollo biocultural, biodiversidad y ecología, con enfoque interdisciplinario e intercultural.",
+              "skills": [
+                "Capaz de realizar investigación, generar y aplicar conocimiento científico para solucionar problemas en áreas de desarrollo biocultural, biodiversidad, ecología, etc., con enfoque interdisciplinario e intercultural."
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Administración Turística",
+            "credits": "",
+            "duration": "",
+            "profile": {
+              "info": "Forma profesionales para el sector turístico, con enfoque en la gestión de empresas y actividades turísticas, así como en la gestión comunitaria.",
+              "skills": [
+                "Profesional capacitado para desempeñarse en empresas de alimentos y bebidas, hospedaje, agencias de viaje, organización de eventos, gestión comunitaria, etc., con conocimientos en marketing turístico, desarrollo sustentable y multiculturalismo."
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Ciencias Ambientales",
+            "credits": "",
+            "duration": "",
+            "profile": {
+              "info": "Se enfoca en la protección y gestión del medio ambiente, con un enfoque en la conservación de recursos naturales y la promoción del desarrollo sostenible.",
+              "skills": [
+                "Experto en gestión ambiental, capaz de desarrollar e implementar proyectos para la protección y conservación del medio ambiente, con conocimientos en ecología, legislación ambiental y gestión de recursos naturales."
+              ]
+            }
+          },
+          {
+            "course": "Ingeniería Forestal",
+            "credits": "",
+            "duration": "",
+            "profile": {
+              "info": "Prepara ingenieros forestales para la gestión y conservación de los recursos forestales, con énfasis en la silvicultura, la restauración ecológica y la gestión sostenible de los bosques.",
+              "skills": [
+                "Ingeniero forestal capacitado para la gestión y conservación de los recursos forestales, con conocimientos en silvicultura, restauración ecológica, manejo forestal, biometría forestal y legislación ambiental, etc."
+              ]
+            }
+          },
+          {
+            "course": "Ingeniería en Desarrollo de Software y Sistemas Inteligentes",
+            "credits": "",
+            "duration": "",
+            "profile": {
+              "info": "Prepara profesionales para el desarrollo de software y sistemas inteligentes, con enfoque en la programación, la ingeniería de software y la inteligencia artificial.",
+              "skills": [
+                "Ingeniero en Desarrollo de Software y Sistemas Inteligentes capaz de desarrollar proyectos de software, dirigir equipos multidisciplinarios, integrar conocimientos de programación, inteligencia artificial, etc. para la creación de sistemas informáticos en ambientes de red y distribuidos."
+              ]
             }
           }
         ]
