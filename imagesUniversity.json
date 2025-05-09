@@ -1,9 +1,22 @@
 [
   {
-    "id":1,
-    "name":"Universidad Autonoma de la Mixteca",
-    "abbreviation": "UTM",
-    "url_logo":"https://www.utm.mx/images/quees1.jpg",
-    "url_photos": ["https://www.utm.mx/images/auditorio1.jpeg","https://www.utm.mx/web/sites/default/files/imagenes/nuestra_universidad/UTM.jpg"]
+    "id": 2,
+    "name": "Universidad del Mar",
+    "abbreviation": "UMAR",
+    "url_logo": "https://www.umar.mx/web/sites/default/files/escudos/02-UMAR_small.png",
+    "url_photos": [
+      "https://www.umar.mx/web/sites/default/files/inline-images/CPA-2023.jpg",
+      "https://www.umar.mx/web/sites/default/files/imagenes/nuestra_universidad/2.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Universidad de la Sierra Juárez",
+    "abbreviation": "UNSIJ",
+    "url_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxVFDb_RTp6Qt4_GzQ2R_2sPstlRvi5SSdKg&s",
+    "url_photos": [
+      "https://www.adnsureste.info/wp-content/uploads/2024/07/USJ--726x400.png",
+      "https://www.oaxaca.gob.mx/comunicacion/wp-content/uploads/sites/28/2024/07/13JUL24-Unsij-2.jpeg"
+    ]
   }
 ]
