@@ -194,6 +194,363 @@
     ]
   },
   {
+    "idUniveridad": 3,
+    "campusCourses": [
+      {
+        "idCampus": 1,
+        "courses": [
+          {
+            "course": "Ingeniería Química",
+            "credits": "",
+            "duration": "10 Semestres",
+            "profile": {
+              "info": "",
+              "skills": [
+                "Realizar investigación básica y aplicada así como la adaptación y desarrollo de tecnología de procesos",
+                "Diseñar, seleccionar, instalar, controlar y operar los equipos y procesos en plantas químicas",
+                "Mejorar equipos y procesos",
+                "Colaborar en programas de mantenimiento, control de producción, control de calidad en las industrias extractivas y de transformación",
+                "La evaluación, elaboración y administración de proyectos químicos",
+                "Desarrollar su trabajo en equipo en forma innovadora, con espíritu crítico, con disposición al cambio en forma honesta y responsable",
+                "Elaborar propuestas alternativas para el control y prevención de la contaminación ambiental",
+                "Habilidad para impartir conocimientos en universidades e instituciones educativas a nivel medio superior"
+              ]
+            }
+          },
+          {
+            "course": "Ingeniería de Petróleos",
+            "credits": "",
+            "duration": "10 Semestres",
+            "profile": {
+              "info": "Los conocimientos adquiridos le permiten al Ingeniero de Petróleos desempeñarse en diferentes campos",
+              "skills": [
+                "El cálculo, la proyección, y dirección de trabajos relacionados con los yacimientos petroleros, la perforación y reparación de pozos así como del tratamiento del petróleo y sus derivados",
+                "Planeación de actividades en instalaciones y procesos de la industria en todas sus etapas (explotación, perforación, producción, destilación, transporte y almacenaje de hidrocarburos y derivados)",
+                "Caracterización de yacimientos y determinación de la cantidad de hidrocarburos que contienen",
+                "Análisis y supervisión de la correcta conducción del petróleo, agua y vapor geotérmico desde el subsuelo hasta la superficie",
+                "Trabajo en equipo y participación en grupos interdisciplinarios con ingenieros geólogos, geofísicos, mecánicos, civiles y químicos",
+                "Elaboración de análisis económico y de factibilidad de proyectos relacionados con la explotación y tratamiento de hidrocarburos",
+                "Optimización de la explotación racional del agua del subsuelo (para riego y potable)",
+                "Selección de equipos y adaptación de nuevas técnicas de perforación y terminación de pozos",
+                "Impartición de enseñanza e investigación en instituciones públicas o privadas de educación superior"
+              ]
+            }
+          },
+          {
+            "course": "Ingeniería en Diseño",
+            "credits": "",
+            "duration": "10 Semestres",
+            "profile": {
+              "info": "El ingeniero en diseño tiene una formación integral que le permite desarrollar su propia empresa o incorporarse en puestos estratégicos en empresas públicas o privadas que desarrollen actividades en el ámbito del diseño y la ingeniería",
+              "skills": [
+                "Competencias en la aplicación de metodologías de diseño, herramientas de diseño conceptual y criterios para la formalización del producto",
+                "Destrezas para realizar modelos formales y funcionales físicos y prototipos virtuales",
+                "Análisis de piezas mediante herramientas computacionales de simulación mecánica",
+                "Conocimientos en procesos de manufactura industrial en diferentes materiales",
+                "Dominio de sistemas de comunicación oral, escrita, bidimensional y tridimensional",
+                "Capacidad de expresar rasgos formales del producto mediante dibujo a mano y herramientas digitales",
+                "Habilidades de gestión de proyectos de diseño e ingeniería mediante trabajo en grupo",
+                "Generación de conceptos e ideas de negocio (estudios de factibilidad, plan de negocios)",
+                "Diseño de espacios habitables, objetos e imágenes que satisfagan necesidades humanas",
+                "Trabajo en equipo y participación en grupos interdisciplinarios",
+                "Desarrollo de lenguaje gráfico para presentación de propuestas",
+                "Compromiso con las comunidades y conciencia de la realidad global",
+                "Capacidad para impartir enseñanza e investigación en instituciones educativas"
+              ]
+            }
+          },
+          {
+            "course": "Ingeniería en Computación",
+            "credits": "",
+            "duration": "10 Semestres",
+            "profile": {
+              "info": "Formar profesionales en el área de Ingeniería en Computación, competentes y éticamente responsables, capaces de enfrentar los retos y aprovechar las oportunidades del campo tecnológico actual y futuro.",
+              "skills": [
+                "Capacidad para el diseño y desarrollo de aplicaciones web, software robusto, escalable y seguro en diferentes lenguajes computacionales",
+                "Adaptación de soluciones a diversas plataformas utilizando buenas prácticas de ingeniería de software y diseño orientado a objetos",
+                "Conocimiento en diseño, implementación y administración de bases de datos relacionales y no relacionales",
+                "Manejo de SQL y sistemas de gestión de bases de datos",
+                "Conocimientos de organización y arquitectura de computadoras, sistemas embebidos y redes",
+                "Conceptos y técnicas de inteligencia artificial, aprendizaje automático y análisis de datos para sistemas inteligentes",
+                "Pensamiento crítico y creativo para generar soluciones a problemas complejos aplicando principios científicos",
+                "Ética y responsabilidad social en el uso de tecnología con impacto social positivo",
+                "Manejo confidencial de información sensible cumpliendo regulaciones legales",
+                "Visión holística para analizar problemas completos y encontrar soluciones eficientes",
+                "Creatividad e innovación para desarrollar soluciones novedosas a problemas existentes",
+                "Aplicación de principios de equidad de género en entornos profesionales y personales",
+                "Capacidad de resiliencia para adaptarse y superar adversidades laborales"
+              ]
+            }
+          },
+          {
+            "course": "Ingeniería Industrial",
+            "credits": "",
+            "duration": "10 Semestres",
+            "profile": {
+              "info": "El Ingeniero Industrial es un profesional que, además de crear su propia fuente de trabajo, puede incorporarse con alta competitividad a instituciones públicas o privadas, donde se utilice tecnología de punta o cuyo nivel tecnológico sea incipiente. Puede desempeñarse en áreas como: producción, manufactura, programas de calidad, tecnología, administración, investigación y desarrollo en micro, pequeñas, medianas y grandes empresas. Por ejemplo: industria manufacturera, empresa de consultoría, empresas comerciales, constructoras e instituciones educativas.",
+              "skills": [
+                "Aplicación de conocimientos en ciencias básicas e ingeniería para resolver problemas de desarrollo industrial sustentable",
+                "Solución de problemas en planeación, diseño, implantación y mejora de sistemas de producción",
+                "Técnicas para la producción de bienes y servicios industriales",
+                "Evaluación y administración de proyectos industriales",
+                "Localización y distribución óptima de plantas industriales",
+                "Gestión de sistemas de inventarios y administración de materiales",
+                "Organización y dirección del factor humano en entornos empresariales",
+                "Elaboración y aplicación de programas de seguridad industrial",
+                "Capacidad de observación e interpretación de sistemas y procesos industriales",
+                "Habilidad para modelar sistemas y procesos industriales",
+                "Capacidad de creación e innovación tecnológica en entornos industriales",
+                "Habilidad para asimilar y adaptar tecnología a contextos industriales"
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Matemáticas Aplicadas",
+            "credits": "",
+            "duration": "10 Semestres",
+            "profile": {
+              "info": "El campo de trabajo del licenciado en matemáticas aplicadas se encuentra en el servicio a las empresas e instituciones donde colaborará al desarrollo social a través del desempeño de su trabajo en áreas funcionales de plantación y organización de sistemas, en el diseño y apoyo estadístico, en diversos estudios de investigación; tendrá habilidad para aplicar paquetes matemáticos propicios. Al mismo tiempo puede aplicarse por sí mismo.",
+              "skills": [
+                "Nivel de abstracción para modelar fenómenos naturales vinculados a la actividad humana mediante matemáticas",
+                "Capacidad de representar problemas cotidianos a través de modelos matemáticos",
+                "Habilidad para el trabajo interdisciplinario en equipos diversos",
+                "Comunicación efectiva en todas sus formas (oral, escrita, gráfica)",
+                "Procesamiento y análisis crítico de información compleja",
+                "Toma de decisiones basadas en análisis cuantitativos",
+                "Aplicación de conocimientos matemáticos en diversas áreas científicas",
+                "Contribución al desarrollo regional y nacional mediante soluciones científicas",
+                "Perspectiva amplia para impactar positivamente el nivel de vida social",
+                "Adaptabilidad para aplicar modelos matemáticos en contextos multidisciplinarios"
+              ]
+            }
+          },
+          {
+            "course": "Ingeniería en Energías Renovables",
+            "credits": "",
+            "duration": "10 Semestres",
+            "profile": {
+              "info": "El ingeniero en Energías Renovables podrá desarrollarse realizando actividades de diseño de sistemas y equipos, supervisión de proyectos, auditorías energéticas, actividades de mantenimiento y administración, docencia, investigación y desarrollo tecnológico, en la creación y administración de empresas de energías renovables, en los sectores público y privado",
+              "skills": [
+                "Cálculo, proyección y dimensionamiento de sistemas de generación de energía renovable",
+                "Especificación técnica y selección de equipos para producción de energía renovable",
+                "Construcción e implementación de tecnologías de energías renovables",
+                "Operación y mantenimiento de sistemas de energía renovable",
+                "Innovación y desarrollo de nuevas tecnologías para aprovechamiento energético renovable",
+                "Diseño de soluciones tecnológicas para energías limpias",
+                "Aplicación de principios de generación de energía mediante biocombustibles",
+                "Transformación de biomasa en biocombustibles para soluciones energéticas",
+                "Resolución de problemas energéticos mediante fuentes renovables",
+                "Optimización de procesos de producción de energía sostenible"
+              ]
+            }
+          },
+          {
+            "course": "Maestría en Ciencias en Energía Eólica",
+            "credits": "",
+            "duration": "4 Semestres",
+            "profile": {
+              "info": "",
+              "skills": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "course": "aestría en Ciencias en Energía Solar",
+            "credits": "4 Semestres",
+            "duration": "",
+            "profile": {
+              "info": "",
+              "skills": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "course": "IDoctorado en Ciencias e Ingeniería en Energía",
+            "credits": "",
+            "duration": "8 Semestres",
+            "profile": {
+              "info": "",
+              "skills": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "idCampus": 2,
+        "courses": [
+          {
+            "course": "Lic. en Ciencias Empresariales",
+            "credits": "",
+            "duration": "9 Semestres",
+            "profile": {
+              "info": "Formar profesionales en las Ciencias Empresariales, con una visión integral para desarrollar y aplicar estrategias que promuevan la innovación, la calidad y productividad; capaces de afrontar los cambios del entorno, que coadyuven al crecimiento económico mediante la creación, dirección o desarrollo de empresas eficientes y competitivas; sensibles a ejercer funciones de liderazgo con ejercicio ético de la profesión.",
+              "skills": [
+                "Identificación y evaluación de oportunidades de negocio con enfoque emprendedor",
+                "Desarrollo y evaluación de proyectos de inversión con ética y responsabilidad social",
+                "Creación, dirección y consolidación de empresas con perspectiva innovadora",
+                "Toma de decisiones efectivas en gestión de recursos empresariales",
+                "Dirección de grupos multidisciplinarios y manejo de conflictos organizacionales",
+                "Motivación de equipos de trabajo y desarrollo de capital humano",
+                "Coordinación de negociaciones efectivas para solución de problemas empresariales",
+                "Diseño e implementación de estrategias de competitividad organizacional",
+                "Contribución al desarrollo regional sustentable con visión global",
+                "Optimización de productividad y rentabilidad empresarial",
+                "Enfoque en servicio al cliente y mejora de calidad organizacional",
+                "Aplicación de principios de desarrollo sustentable en los negocios",
+                "Mejora continua de la calidad de vida en el ambiente laboral",
+                "Análisis de mercados y tendencias para la toma de decisiones estratégicas",
+                "Implementación de modelos de negocio innovadores y sostenibles"
+              ]
+            }
+          },
+          {
+            "course": "Lic. en Derecho",
+            "credits": "",
+            "duration": "10 Semestres",
+            "profile": {
+              "info": "",
+              "skills": [
+                "Ejercicio profesional del derecho con enfoque humanista y social",
+                "Interpretación y aplicación del sistema normativo vigente",
+                "Aplicación de principios, teorías y métodos jurídicos",
+                "Identificación de problemas jurídico-sociales en distintos ámbitos territoriales",
+                "Compromiso con la protección de derechos humanos y grupos vulnerables",
+                "Búsqueda de soluciones a problemas que afectan a minorías étnicas y grupos desaventajados",
+                "Participación en resolución de conflictos con enfoque conciliatorio",
+                "Contribución a la actualización del marco jurídico",
+                "Participación en investigaciones jurídicas y multidisciplinarias",
+                "Capacidad para continuar estudios de posgrado en derecho y ciencias sociales",
+                "Análisis crítico de la realidad social desde la perspectiva jurídica",
+                "Aplicación de métodos alternativos de solución de controversias",
+                "Diseño de estrategias para la defensa de derechos fundamentales",
+                "Asesoría legal con perspectiva de justicia social",
+                "Comprensión de la interrelación entre derecho y sociedad"
+              ]
+            }
+          },
+          {
+            "course": "Ing. en Desarrollo de Software y Sistemas Inteligentes",
+            "credits": "",
+            "duration": "9 Semestres",
+            "profile": {
+              "info": "",
+              "skills": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "course": "Lic. en Comercio Exterior y Gestión de Aduanas (NUEVA)",
+            "credits": "",
+            "duration": "8 Semestres",
+            "profile": {
+              "info": "",
+              "skills": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "course": "Ing. en Logística y Cadenas de suministros (NUEVA)",
+            "credits": "",
+            "duration": "9 Semestres",
+            "profile": {
+              "info": "",
+              "skills": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "course": "Lic. en Administración Pública",
+            "credits": "",
+            "duration": "10 Semestres",
+            "profile": {
+              "info": "",
+              "skills": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "course": "Lic. en Informática",
+            "credits": "",
+            "duration": "10 Semestres",
+            "profile": {
+              "info": "El Licenciado en Informática puede desempeñarse en diversas áreas del sector público o privado, donde podrá desempeñar una gran variedad de actividades y funciones",
+              "skills": [
+                "Diseño de estrategias organizacionales para gestión de información",
+                "Creación, administración y mantenimiento de sistemas de tratamiento de información",
+                "Selección y uso óptimo de herramientas computacionales actuales y emergentes",
+                "Diseño e instalación de redes de cómputo",
+                "Administración de recursos computacionales para procesamiento distribuido de datos",
+                "Dirección de equipos multidisciplinarios para soluciones integrales",
+                "Cumplimiento de normativas legales en el ámbito informático",
+                "Participación en proyectos de investigación científica y tecnológica",
+                "Aplicación de normas y estándares de calidad en informática",
+                "Identificación de oportunidades de negocio mediante tecnología",
+                "Ejercicio profesional con ética y aprendizaje continuo",
+                "Capacidad para estudios de postgrado en áreas tecnológicas y administrativas",
+                "Implementación de soluciones que elevan el nivel de vida regional y nacional",
+                "Gestión de servicios y sistemas de información integrados",
+                "Innovación en el tratamiento y procesamiento de datos organizacionales"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "idCampus": 3,
+        "courses": [
+          {
+            "course": "Licenciatura en Nutrición",
+            "credits": "",
+            "duration": "10 Semestres",
+            "profile": {
+              "info": "Formar Licenciados en Nutrición competentes para atender problemas relacionados con la alimentación y la nutrición a nivel individual y poblacional en el proceso de salud-enfermedad, manejar servicios de alimentos, así como modificar la calidad nutrimental de productos alimenticios; con la finalidad de prevenir y promover la salud a nivel local, regional, estatal y nacional, consentido de solidaridad, ética y responsabilidad social.",
+              "skills": [
+                "Promoción de la salud y prevención de enfermedades mediante intervenciones alimentarias y nutricionales",
+                "Concepción, planeación, ejecución y evaluación de programas nutricionales a nivel poblacional",
+                "Evaluación nutricional y establecimiento de diagnósticos nutrimentales",
+                "Elaboración e implementación de planes de cuidado nutricio individualizados",
+                "Monitoreo y seguimiento de intervenciones nutrimentales",
+                "Gestión de servicios de alimentos para colectividades (planeación, organización, dirección y control)",
+                "Aseguramiento de la calidad e inocuidad alimentaria",
+                "Innovación y evaluación de productos alimenticios para mejorar su calidad nutrimental",
+                "Responsabilidad y honestidad en el ejercicio profesional",
+                "Iniciativa y espíritu de servicio en la práctica nutricional",
+                "Capacidad de trabajo en equipos multidisciplinarios",
+                "Ética profesional en el cuidado de la salud y la alimentación"
+              ]
+            }
+          },
+          {
+            "course": "Licenciatura en Enfermería",
+            "credits": "",
+            "duration": "10 Semestres",
+            "profile": {
+              "info": "Al concluir la carrera, será un profesional del área de salud que, para un adecuado perfil tanto académico como laboral, deberá contar con los elementos clínicos y teóricos para lograr el cuidado integral de la salud humana enfatizando en la prevención y procuración de la misma en las zonas de mayor riesgo epidemiológico, para lo cual necesitará ejecutar funciones asistenciales, administrativas, de educación par a la salud y de investigación, desarrollándose en la áreas de formación científica, técnica y humanística.",
+              "skills": [
+                "El campo de acción de la Lic. en Enfermería es asistencial y gestora del cuidado en el sector público y/o privado, hospitales, centros de salud, clínicas. Docente e investigación en universidades y escuelas de Enfermería. Práctica del ejercicio libre y autónomo de la profesión."
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
     "idUniveridad": 4,
     "campusCourses": [
       {
