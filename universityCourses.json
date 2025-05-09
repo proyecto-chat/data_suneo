@@ -7,37 +7,75 @@
         "courses": [
           {
             "course": "Ingeniería Forestal",
+            "credits": "",
+            "duration": "",
             "profile": {
               "info": "Profesionales en manejo y conservación forestal con enfoque sustentable y habilidades en planeación y gestión de recursos.",
-              "skills": "Manejo forestal, conservación de ecosistemas, silvicultura, planificación y gestión sustentable."
+              "skills": [
+                "Manejo forestal",
+                "conservación de ecosistemas",
+                "silvicultura",
+                "planificación y gestión sustentable"
+              ]
             }
           },
           {
             "course": "Licenciatura en Biología",
+            "credits": "",
+            "duration": "",
             "profile": {
               "info": "Formación en investigación científica aplicada a biodiversidad y ecología con enfoque interdisciplinario.",
-              "skills": "Biodiversidad, trabajo de campo y laboratorio, pensamiento crítico, interdisciplinariedad, ética profesional."
+              "skills": [
+                "Biodiversidad",
+                "trabajo de campo y laboratorio",
+                "pensamiento crítico",
+                "interdisciplinariedad",
+                "ética profesional"
+              ]
             }
           },
           {
             "course": "Licenciatura en Enfermería",
+            "credits": "",
+            "duration": "",
             "profile": {
               "info": "Profesional en cuidado integral del ser humano con bases teórico-prácticas y principios bioéticos.",
-              "skills": "Cuidado integral, administración, docencia, investigación, ética y bioética."
+              "skills": [
+                "Cuidado integral",
+                "administración",
+                "docencia",
+                "investigación",
+                "ética y bioética"
+              ]
             }
           },
           {
             "course": "Licenciatura en Informática",
+            "credits": "",
+            "duration": "",
             "profile": {
               "info": "Diseño y administración de sistemas de información y redes, con capacidad para investigación tecnológica.",
-              "skills": "Sistemas de información, redes de cómputo, trabajo multidisciplinario, cumplimiento legal, investigación."
+              "skills": [
+                "Sistemas de información",
+                "redes de cómputo",
+                "trabajo multidisciplinario",
+                "cumplimiento legal",
+                "investigación"
+              ]
             }
           },
           {
             "course": "Licenciatura en Medicina Veterinaria y Zootecnia",
+            "credits": "",
+            "duration": "",
             "profile": {
               "info": "Manejo sustentable de animales domésticos y fauna silvestre, con diseño de instalaciones y planes nutricionales.",
-              "skills": "Manejo animal, diseño de instalaciones, bienestar animal, nutrición sustentable."
+              "skills": [
+                "Manejo animal",
+                "diseño de instalaciones",
+                "bienestar animal",
+                "nutrición sustentable"
+              ]
             }
           }
         ]
@@ -47,30 +85,60 @@
         "courses": [
           {
             "course": "Ingeniería Ambiental",
+            "credits": "",
+            "duration": "",
             "profile": {
               "info": "Profesionales para prevenir y solucionar problemas ambientales con enfoque sostenible y liderazgo ético.",
-              "skills": "Gestión ambiental, tecnologías limpias, evaluación de impactos, liderazgo, trabajo interdisciplinario."
+              "skills": [
+                "Gestión ambiental",
+                "tecnologías limpias",
+                "evaluación de impactos",
+                "liderazgo",
+                "trabajo interdisciplinario"
+              ]
             }
           },
           {
             "course": "Ingeniería en Acuicultura",
+            "credits": "",
+            "duration": "",
             "profile": {
               "info": "Capacitados para diseñar y administrar sistemas acuícolas sustentables y promover el desarrollo regional.",
-              "skills": "Diseño de sistemas acuícolas, administración, trabajo interdisciplinario, evaluación de proyectos."
+              "skills": [
+                "Diseño de sistemas acuícolas",
+                "administración",
+                "trabajo interdisciplinario",
+                "evaluación de proyectos"
+              ]
             }
           },
           {
             "course": "Licenciatura en Biología Marina",
+            "credits": "",
+            "duration": "",
             "profile": {
               "info": "Formación en manejo integral de recursos marinos y costeros con enfoque científico y ambiental.",
-              "skills": "Biología marina, trabajo de campo, laboratorio, disciplina, curiosidad científica."
+              "skills": [
+                "Biología marina",
+                "trabajo de campo",
+                "laboratorio",
+                "disciplina",
+                "curiosidad científica"
+              ]
             }
           },
           {
             "course": "Licenciatura en Oceanología",
+            "credits": "",
+            "duration": "",
             "profile": {
               "info": "Análisis y gestión de fenómenos oceánicos y proyectos ecológicos con enfoque en sustentabilidad global.",
-              "skills": "Análisis oceánico, gestión de recursos marinos, proyectos ecológicos, investigación ambiental."
+              "skills": [
+                "Análisis oceánico",
+                "gestión de recursos marinos",
+                "proyectos ecológicos",
+                "investigación ambiental"
+              ]
             }
           }
         ]
@@ -80,37 +148,76 @@
         "courses": [
           {
             "course": "Licenciatura en Actuaría",
+            "credits": "",
+            "duration": "",
             "profile": {
               "info": "Evaluación y gestión de riesgos económicos y financieros con capacidad investigativa y trabajo colaborativo.",
-              "skills": "Evaluación de riesgos, gestión integral, negociación, investigación, trabajo en equipo."
+              "skills": [
+                "Evaluación de riesgos",
+                "gestión integral",
+                "negociación",
+                "investigación",
+                "trabajo en equipo"
+              ]
             }
           },
           {
             "course": "Licenciatura en Administración Turística",
+            "credits": "",
+            "duration": "",
             "profile": {
               "info": "Profesionales multidisciplinarios para gestionar y desarrollar el sector turístico con ética y liderazgo.",
-              "skills": "Gestión turística, marketing, desarrollo sustentable, liderazgo, ética profesional."
+              "skills": [
+                "Gestión turística",
+                "marketing",
+                "desarrollo sustentable",
+                "liderazgo",
+                "ética profesional"
+              ]
             }
           },
           {
             "course": "Licenciatura en Ciencias de la Comunicación",
+            "credits": "",
+            "duration": "",
             "profile": {
               "info": "Competencias para gestionar procesos comunicativos con ética y capacidad crítica en contextos locales y globales.",
-              "skills": "Comunicación social, gestión de proyectos, producción de mensajes, análisis crítico, ética."
+              "skills": [
+                "Comunicación social",
+                "gestión de proyectos",
+                "producción de mensajes",
+                "análisis crítico",
+                "ética"
+              ]
             }
           },
           {
             "course": "Licenciatura en Economía",
+            "credits": "",
+            "duration": "",
             "profile": {
               "info": "Formación en teoría y análisis económico con habilidades matemáticas y conocimiento contextual.",
-              "skills": "Teoría económica, análisis matemático, herramientas metodológicas, contexto histórico."
+              "skills": [
+                "Teoría económica",
+                "análisis matemático",
+                "herramientas metodológicas",
+                "contexto histórico"
+              ]
             }
           },
           {
             "course": "Licenciatura en Relaciones Internacionales",
+            "credits": "",
+            "duration": "",
             "profile": {
               "info": "Conocimientos para asesoría, diplomacia y gestión en ámbitos internacionales con ética y responsabilidad.",
-              "skills": "Política internacional, globalización, diplomacia, asesoría, ética profesional."
+              "skills": [
+                "Política internacional",
+                "globalización",
+                "diplomacia",
+                "asesoría",
+                "ética profesional"
+              ]
             }
           }
         ]
@@ -134,43 +241,75 @@
             "profile": {
               "info": "Capacita para realizar investigación y aplicar conocimientos científicos en áreas de desarrollo biocultural, biodiversidad y ecología, con enfoque interdisciplinario e intercultural.",
               "skills": [
-                "Capaz de realizar investigación, generar y aplicar conocimiento científico para solucionar problemas en áreas de desarrollo biocultural, biodiversidad, ecología, etc., con enfoque interdisciplinario e intercultural."
+                "Investigación",
+                "aplicación de conocimientos científicos",
+                "desarrollo biocultural",
+                "biodiversidad",
+                "ecología",
+                "enfoque interdisciplinario",
+                "enfoque intercultural"
               ]
             }
           },
           {
             "course": "Licenciatura en Administración Turística",
+            "credits": "",
+            "duration": "",
             "profile": {
               "info": "Forma profesionales para el sector turístico, con enfoque en la gestión de empresas y actividades turísticas, así como en la gestión comunitaria.",
               "skills": [
-                "Profesional capacitado para desempeñarse en empresas de alimentos y bebidas, hospedaje, agencias de viaje, organización de eventos, gestión comunitaria, etc., con conocimientos en marketing turístico, desarrollo sustentable y multiculturalismo."
+                "Gestión de empresas turísticas",
+                "actividades turísticas",
+                "gestión comunitaria",
+                "marketing turístico",
+                "desarrollo sustentable",
+                "multiculturalismo"
               ]
             }
           },
           {
             "course": "Licenciatura en Ciencias Ambientales",
+            "credits": "",
+            "duration": "",
             "profile": {
               "info": "Se enfoca en la protección y gestión del medio ambiente, con un enfoque en la conservación de recursos naturales y la promoción del desarrollo sostenible.",
               "skills": [
-                "Experto en gestión ambiental, capaz de desarrollar e implementar proyectos para la protección y conservación del medio ambiente, con conocimientos en ecología, legislación ambiental y gestión de recursos naturales."
+                "Gestión ambiental",
+                "desarrollo e implementación de proyectos ambientales",
+                "ecología",
+                "legislación ambiental",
+                "gestión de recursos naturales"
               ]
             }
           },
           {
             "course": "Ingeniería Forestal",
+            "credits": "",
+            "duration": "",
             "profile": {
               "info": "Prepara ingenieros forestales para la gestión y conservación de los recursos forestales, con énfasis en la silvicultura, la restauración ecológica y la gestión sostenible de los bosques.",
               "skills": [
-                "Ingeniero forestal capacitado para la gestión y conservación de los recursos forestales, con conocimientos en silvicultura, restauración ecológica, manejo forestal, biometría forestal y legislación ambiental, etc."
+                "Gestión y conservación de recursos forestales",
+                "silvicultura",
+                "restauración ecológica",
+                "manejo forestal",
+                "biometría forestal",
+                "legislación ambiental"
               ]
             }
           },
           {
             "course": "Ingeniería en Desarrollo de Software y Sistemas Inteligentes",
+            "credits": "",
+            "duration": "",
             "profile": {
               "info": "Prepara profesionales para el desarrollo de software y sistemas inteligentes, con enfoque en la programación, la ingeniería de software y la inteligencia artificial.",
               "skills": [
-                "Ingeniero en Desarrollo de Software y Sistemas Inteligentes capaz de desarrollar proyectos de software, dirigir equipos multidisciplinarios, integrar conocimientos de programación, inteligencia artificial, etc. para la creación de sistemas informáticos en ambientes de red y distribuidos."
+                "Desarrollo de software",
+                "dirección de equipos multidisciplinarios",
+                "programación",
+                "inteligencia artificial",
+                "sistemas informáticos en red y distribuidos"
               ]
             }
           }
