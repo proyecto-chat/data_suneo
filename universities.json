@@ -57,5 +57,39 @@
         "description": ""
       }
     ]
+  },
+  {
+    "id": 7,
+    "name": "Universidad de la Cañada",
+    "abbreviation": "UNCA",
+    "locations": [
+      {
+        "idcampus": 0,
+        "name": " Teotitlán de Flores Magón",
+        "location": "Carretera Teotitlán - San Antonio Nanahuatipán Km 1.7 s/n. Paraje Titlacuatitla, Teotitlán de Flores Magón, Oax. México, C.P. 68540",
+        "servicesSchools": {
+          "phones": [
+            "236 372 0712",
+            "236 372 0715",
+            "236 372 0747",
+            "236 372 0257",
+            "236 372 0359",
+            "236 372 0550",
+            "236 372 0628"
+          ]
+        },
+        "mail": [
+          "escolares@unca.edu.mx"
+        ]
+      }
+    ],
+    "description_University": [
+      {
+        "mision": "Impartir educación superior en los niveles de Licenciatura, Maestría y Doctorado formando profesionales e investigadores altamente capacitados, para contribuir al desarrollo de la investigación, educación superior, independencia económica, científica, tecnológica y cultural del Estado y del País.",
+        "vision": "Consolidarse como una universidad de calidad en educación superior, comprometida con la excelencia académica, líder en el desarrollo científico, tecnológico y cultural, con reconocimiento nacional e internacional.",
+        "whatIs": "",
+        "description": ""
+      }
+    ]
   }
 ]

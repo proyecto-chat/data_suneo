@@ -1,10 +1,13 @@
 [
   {
-    "id":1,
-    "name":"Universidad Autonoma de la Mixteca",
+    "id": 1,
+    "name": "Universidad Autonoma de la Mixteca",
     "abbreviation": "UTM",
-    "url_logo":"https://www.utm.mx/images/quees1.jpg",
-    "url_photos": ["https://www.utm.mx/images/auditorio1.jpeg","https://www.utm.mx/web/sites/default/files/imagenes/nuestra_universidad/UTM.jpg"]
+    "url_logo": "https://www.utm.mx/images/quees1.jpg",
+    "url_photos": [
+      "https://www.utm.mx/images/auditorio1.jpeg",
+      "https://www.utm.mx/web/sites/default/files/imagenes/nuestra_universidad/UTM.jpg"
+    ]
   },
   {
     "id": 5,
@@ -13,6 +16,15 @@
     "url_logo": "https://www.unsis.edu.mx/web/sites/default/files/escudos/05-UNSIS_small.png",
     "url_photos": [
       "https://www.unsis.edu.mx/web/sites/default/files/imagenes/nuestra_universidad/Historia_0.png"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Universidad de la Cañada",
+    "abbreviation": "UNCA",
+    "url_logo": "https://www.suneo.mx/web/sites/default/files/escudos/07-UNCA_small.png",
+    "url_photos": [
+      "https://www.unca.edu.mx/web/sites/default/files/inline-images/UNCA_0.png"
     ]
   }
 ]
