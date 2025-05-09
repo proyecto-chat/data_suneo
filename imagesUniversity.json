@@ -5,5 +5,14 @@
     "abbreviation": "UTM",
     "url_logo":"https://www.utm.mx/images/quees1.jpg",
     "url_photos": ["https://www.utm.mx/images/auditorio1.jpeg","https://www.utm.mx/web/sites/default/files/imagenes/nuestra_universidad/UTM.jpg"]
+  },
+  {
+    "id": 5,
+    "name": "Universidad de la Sierra Sur",
+    "abbreviation": "UNSIS",
+    "url_logo": "https://www.unsis.edu.mx/web/sites/default/files/escudos/05-UNSIS_small.png",
+    "url_photos": [
+      "https://www.unsis.edu.mx/web/sites/default/files/imagenes/nuestra_universidad/Historia_0.png"
+    ]
   }
 ]

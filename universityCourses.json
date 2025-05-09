@@ -1,9 +1,7 @@
 [
-
   {
-
     "idUniveridad": 1,
-    "campusCourses":[
+    "campusCourses": [
       {
         "idCampus": 0,
         "courses": [
@@ -11,9 +9,12 @@
             "course": "Ingeniería Civil",
             "credits": "",
             "duration": "",
-            "profile":{
-              "info":"",
-              "skills":["",""]
+            "profile": {
+              "info": "",
+              "skills": [
+                "",
+                ""
+              ]
             }
           },
           {
@@ -53,6 +54,15 @@
             "course": "Ingeniería en Estudios Mexiacanos modalidad Virtual"
           }
         ]
+      }
+    ]
+  },
+  {
+    "idUniveridad": 5,
+    "campusCourses": [
+      {
+        "idCampus": 0,
+        "courses": []
       }
     ]
   }

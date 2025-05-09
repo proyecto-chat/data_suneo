@@ -1,25 +1,60 @@
 [
   {
-    "id":1,
+    "id": 1,
     "name": "Universidad Autonoma de la Mixteca",
     "abbreviation": "UTM",
     "locations": [
       {
-        "idcampus":0,
-        "name":"Campus Huajuapan de León",
-        "location":"Av. Dr. Modesto Seara Vázquez No. 1. Acatlima, Heroica Ciudad de Huajuapan de León, Oax., México C.P. 69004",
-        "servicesSchools":{
-          "phones": ["953 532 0214", "953 532 0399", "953 532 2933","953 532 4560"]
+        "idcampus": 0,
+        "name": "Campus Huajuapan de León",
+        "location": "Av. Dr. Modesto Seara Vázquez No. 1. Acatlima, Heroica Ciudad de Huajuapan de León, Oax., México C.P. 69004",
+        "servicesSchools": {
+          "phones": [
+            "953 532 0214",
+            "953 532 0399",
+            "953 532 2933",
+            "953 532 4560"
+          ]
         },
-        "mail": ["escolar@mixteco.utm.mx"]
+        "mail": [
+          "escolar@mixteco.utm.mx"
+        ]
       }
     ],
-    "description_University":[
+    "description_University": [
       {
-        "mision":"",
-        "vision":"",
-        "whatIs":"",
-        "decription":""
+        "mision": "",
+        "vision": "",
+        "whatIs": "",
+        "decription": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Universidad de la Sierra Sur",
+    "abbreviation": "UNSIS",
+    "locations": [
+      {
+        "idcampus": 0,
+        "name": "Miahuatlán de Porfirio Díaz",
+        "location": "Calle Guillermo Rojas Mijangos S/N, Esq. Av. Universidad Col. Ciudad Universitaria, Miahuatlán de Porfirio Díaz, Oax., México C.P. 70800",
+        "servicesSchools": {
+          "phones": [
+            "951 572 4100"
+          ]
+        },
+        "mail": [
+          "serves@unsis.edu.mx"
+        ]
+      }
+    ],
+    "description_University": [
+      {
+        "mision": "Servir como instrumento cultural de transformación social a través de la oferta de educación superior en los niveles de licenciatura, maestría y doctorado, que favorecen la formación integral de profesionistas e investigadores con altos estándares de calidad en las áreas de salud, administración e informática, que contribuyen a la independencia económica, el desarrollo científico, tecnológico, humano y cultural del estado y del país, con responsabilidad social y compromiso con la sustentabilidad.",
+        "vision": "Consolidarse como una Universidad de calidad, con un fuerte compromiso con la excelencia académica, líder en el desarrollo científico, tecnológico, humano y cultural con reconocimiento local, nacional e internacional.",
+        "whatIs": "",
+        "description": ""
       }
     ]
   }
