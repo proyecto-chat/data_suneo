@@ -5,6 +5,8 @@
     "abbreviation": "UTM",
     "locations": [
       {
+        "idcampues":0,
+        "name":"Campus Huajuapan de León",
         "location":"Av. Dr. Modesto Seara Vázquez No. 1. Acatlima, Heroica Ciudad de Huajuapan de León, Oax., México C.P. 69004",
         "servicesSchools":{
           "phones": ["953 532 0214", "953 532 0399", "953 532 2933","953 532 4560"]

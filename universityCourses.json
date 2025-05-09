@@ -3,36 +3,53 @@
   {
 
     "idUniveridad": 1,
-    "courses": [
+    "campuesCourses":[
       {
-        "course": "Ingenieria Civil",
-        "credits":"",
-        "duration":"",
-        "profile":""
-      },{
-        "course": "Ingenieria en Alimentos"
-      },{
-        "course":"Ingenieria en Computacion"
-      },{
-        "course": "Ingenieria en Diseño"
-      },{
-        "course": "Ingenieria en Electronica"
-      },{
-        "course": "Ingenieria en Fisica Aplicada"
-      },{
-        "course": "Ingenieria Industrial"
-      },{
-        "course": "Ingenieria en Mecanica Automotriz"
-      },{
-        "course": "Ingenieria en Mecatronica"
-      },{
-        "course": "Ingenieria en Quimica en Procesos Sostenibles"
-      },{
-        "course": "Ingenieria en Ciencias empresariales"
-      },{
-        "course": "Ingenieria en Matematicas Aplicadas"
-      },{
-        "course": "Ingenieria en Estudios Mexiacanos modalidad Virtual"
+        "idCmpus": 0,
+        "courses": [
+          {
+            "course": "Ingeniería Civil",
+            "credits": "",
+            "duration": "",
+            "profile": ""
+          },
+          {
+            "course": "Ingeniería en Alimentos"
+          },
+          {
+            "course": "Ingeniería en Computacion"
+          },
+          {
+            "course": "Ingeniería en Diseño"
+          },
+          {
+            "course": "Ingeniería en Electrónica"
+          },
+          {
+            "course": "Ingeniería en Fisica Aplicada"
+          },
+          {
+            "course": "Ingeniería Industrial"
+          },
+          {
+            "course": "Ingeniería en Mecánica Automotriz"
+          },
+          {
+            "course": "Ingeniería en Mecatrónica"
+          },
+          {
+            "course": "Ingeniería en Quimica en Procesos Sostenibles"
+          },
+          {
+            "course": "Ingeniería en Ciencias empresariales"
+          },
+          {
+            "course": "Ingeniería en Matematicas Aplicadas"
+          },
+          {
+            "course": "Ingeniería en Estudios Mexiacanos modalidad Virtual"
+          }
+        ]
       }
     ]
   }
