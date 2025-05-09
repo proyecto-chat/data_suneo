@@ -3,7 +3,7 @@
   {
 
     "idUniveridad": 1,
-    "campuesCourses":[
+    "campusCourses":[
       {
         "idCmpus": 0,
         "courses": [

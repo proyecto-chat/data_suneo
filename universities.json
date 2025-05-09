@@ -5,7 +5,7 @@
     "abbreviation": "UTM",
     "locations": [
       {
-        "idcampues":0,
+        "idcampus":0,
         "name":"Campus Huajuapan de León",
         "location":"Av. Dr. Modesto Seara Vázquez No. 1. Acatlima, Heroica Ciudad de Huajuapan de León, Oax., México C.P. 69004",
         "servicesSchools":{
@@ -14,11 +14,12 @@
         "mail": ["escolar@mixteco.utm.mx"]
       }
     ],
-    "description":[
+    "description_University":[
       {
         "mision":"",
         "vision":"",
-        "whatId":""
+        "whatIs":"",
+        "decription":""
       }
     ]
   }
