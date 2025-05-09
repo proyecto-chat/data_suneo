@@ -5,5 +5,19 @@
     "abbreviation": "UTM",
     "url_logo":"https://www.utm.mx/images/quees1.jpg",
     "url_photos": ["https://www.utm.mx/images/auditorio1.jpeg","https://www.utm.mx/web/sites/default/files/imagenes/nuestra_universidad/UTM.jpg"]
-  }
+  },
+	{
+		"id":4,
+		"name":"Universidad del Papaloapan",
+		"abbreviation": "UNPA",
+		"url_logo":"https://www.suneo.mx/web/sites/default/files/escudos/04-UNPA_small.png",
+		"url_photos":["https://www.unpa.edu.mx/web/sites/default/files/imagenes/nuestra_universidad/UNPA-Contacto.png", "https://www.unpa.edu.mx/web/sites/default/files/imagenes/nuestra_universidad/que%20es%20la%20unpa.jpg"]
+	},
+	{
+		"id":10,
+		"name":"Universidad de Chalcatongo",
+		"abbreviation": "UNICHA",
+		"url_logo":"https://www.suneo.mx/web/sites/default/files/escudos/10-UNICHA_small.png",
+		"url_photos": ["https://www.unicha.edu.mx/web/sites/default/files/imagenes/nuestra_universidad/que_es_la_UNICHA-02.png", "https://www.unicha.edu.mx/web/sites/default/files/imagenes/nuestra_universidad/que_es_la_UNICHA-01_0.png"]
+	}
 ]

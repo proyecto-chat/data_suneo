@@ -22,5 +22,63 @@
         "decription":""
       }
     ]
+  },
+	{
+		"id":4,
+		"name":"Universidad del Papaloapan",
+		"abbreviation": "UNPA",
+		"locations":[
+			{
+				"idcampus":0,
+				"name":"Campus Loma Bonita",
+				"location": "Av. Ferrocarril s/n, CD. Universitaria, Loma Bonita, Oax., México C.P. 68400",
+				"servicesSchools":{
+					"phones": ["281 872 9230"]
+				},
+				"mail": ["servescolares@unpa.edu.mx"]
+
+			},
+			{
+				"idcampus":1,
+				"name":"Campus Tuxtepec",
+				"location": "Circuito Central #200, colonia Parque Industrial, Tuxtepec, Oax., México C.P. 68301",
+				"servicesSchools":{
+					"phones": ["287 875 9240"]
+				},
+				"mail": ["servescolares@unpa.edu.mx"]
+			}
+		],
+		"description":[
+			{
+				"mision":"",
+				"vision":"",
+				"whatId":"La Universidad del Papaloapan (UNPA) pertenece al Sistema de Universidades Estatales de Oaxaca (SUNEO), y nace de la necesidad de fomentar la creación de centros de educación públicos en las diferentes regiones de Oaxaca, para absorber la demanda creciente de jóvenes que deseen prepararse en las disciplinas científicas y humanísticas, y que permitan dar respuesta satisfactoria a los requerimientos de nuestro tiempo.",
+        "decription":""
+			}
+		]
+	},
+	{
+    "id":10,
+    "name": "Universidad de Chalcatongo",
+		"abbreviation": "UNICHA",
+    "locations": [
+      {
+        "idcampus":0,
+        "name":"Campus Chalcatongo de Hidalgo",
+        "location":"Ciudad Universitaria Chalcatongo de Hidalgo, Tlaxiaco, Oax. C.P. 71100",
+        "servicesSchools":{
+          "phones": ["953 530 2093"]
+        },
+        "mail": ["escolares@unicha.edu.mx"]
+      }
+    ],
+    "description_University":[
+      {
+        "mision":"Impartir educación superior en los  niveles de Licenciatura, Maestría y Doctorado, formando profesionales e investigadores altamente capacitados para contribuir al desarrollo de la   investigación, educación superior,   independencia económica, científica, tecnológica y cultural del Estado y del país.",
+        "vision":"Consolidarse como una Universidad de calidad en educación superior, comprometida con la excelencia académica, líder en el desarrollo científico, tecnológico y cultural, con reconocimiento nacional e  internacional.",
+        "whatIs":"La Universidad de Chalcatongo (UNICHA) forma parte del Sistema de Universidades Estatales de Oaxaca, SUNEO, la cual es concebida como un instrumento cultural para transformar la sociedad de la región, del estado y del país; como centro de educación superior e investigación científica enfocado a la formación, especialización y desarrollo integral de profesionales en diversos aspectos de las necesidades del país, así como para generar empresas y activar la economía, fomentando constantemente la dignificación del trabajo, honestidad y el respeto a los valores nacionales y universales.",
+        "decription":""
+      }
+    ]
   }
 ]
